@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /api/
+Allow: /
+Allow: /article/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+
+Sitemap: https://galgamer.eu.org/sitemap.xml
