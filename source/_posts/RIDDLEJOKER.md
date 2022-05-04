@@ -1,6 +1,6 @@
 ---
 title: 'RIDDLE JOKER: 碟中諜之超能力辦案'
-date: 2022-5-8 00:30:00
+date: 2022-5-7 00:30:00
 keywords: "RIDDLE JOKER, Yuzu Soft, 柚子社" 
 banner_img: ''
 index_img: '../image/RIDDLEJOKER/index.webp'
