@@ -423,10 +423,11 @@ Galgame 金曲: <a href="/music/?id=26" target="_blank">🔗️astral ability</a
 
 {% steam_widget 1277930 %}
 
-Steam 商店版需要額外安裝 R-18 補丁。
+Steam 商店版需要額外安裝 R-18 補丁，遊戲內置多語言。
 
-網友發的資源： {% telegram_channel 391 gal_porter %}
-（已安裝 R-18 補丁）
+資源來自 Ryuugames（已安裝 R-18 補丁）
+https://www.ryuugames.com/eng-riddle-joker-free-download/ 
+密碼 `ryuugames.com`
 
 備註：Hikari Field 警告
 
@@ -442,8 +443,7 @@ magnet:?xt=urn:btih:7321dffe0c35fa04ecbb03063d3b38ce43084083
 
 安裝遊戲後，請在 [🔗️柚子社官網](http://www.yuzu-soft.com/products/riddle/download.html) 下載升級補丁。
 
-漢化：別漢化了，請直接玩日文，中文版直接找 Hikari Field，，，
-
+漢化補丁：{% telegram_channel 617 %}
 
 ## 寫在最後
 
@@ -455,6 +455,8 @@ magnet:?xt=urn:btih:7321dffe0c35fa04ecbb03063d3b38ce43084083
 這個方法還是交給其他編者吧，，，
 
 老話再說一遍，如果你有喜歡的 Galgame 要推薦給各位，或者關於 Galgame 有什麼其他想寫的東西，我們在 @Galgamer 群裏,隨時歡迎投稿。
+
+<a href="tg://addstickers?set=RIDDLE_JOKER_Sticker">🔗️直達 Telegram 貼紙</a>
 
 <div class="row">
   <div class="my-1 col-4 col-md-3">
