@@ -5,7 +5,7 @@ keywords: "RIDDLE JOKER, Yuzu Soft, 柚子社"
 banner_img: ''
 index_img: '../image/RIDDLEJOKER/index.webp'
 tags:
-  - 科幻
+  - 超能力
   - 搞笑
   - 柚子社
 categories:
@@ -15,6 +15,54 @@ abbrlink: 20014
 author: '桐遠暮羽'
 excerpt: '王牌特務男主角和妹妹搭檔 潛入超能力學院，調查學院不可告人的迫真驚天祕密。'
 ---
+
+<style>
+.ar16x9{
+  aspect-ratio: 16/9;
+}
+body {
+    background: var(--bg-url) no-repeat fixed center;
+    background-size: cover;
+    /*-webkit-font-smoothing: unset;*/
+}
+#banner {
+    background: url('')!important;
+    background-color: transparent!important;
+}
+#toc {
+     background-color: var(--board-bg-color);
+     padding: 20px 10px 20px 20px;
+     border-radius: 10px;
+}
+#board {
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+   /* background-color: #3337 !important;*/
+}
+.full-bg-img > .mask {
+  background-color: rgba(0,0,0,0) !important;
+}
+.page-header  {
+  background-color: rgba(0,0,0,0.5);
+  padding: 3px;
+  border-radius: 5px;
+}
+:root {
+  --board-bg-color: rgba(255,255,255,0.7);
+  --bg-url: url('../image/RIDDLEJOKER/bg-l.webp')
+}
+[data-user-color-scheme='dark'] {
+  --board-bg-color: rgba(0,0,0,0.85);
+  --bg-url: url('../image/RIDDLEJOKER/bg-d.webp')
+}
+::selection {
+    /*background-color: #f00;*/
+}
+.page-header .mt-1 span.post-meta {
+    /* 隱藏嚇人的字數統計 */
+    display: none;
+}
+</style>
 
 `作者：桐遠暮羽`
 
@@ -33,9 +81,9 @@ excerpt: '王牌特務男主角和妹妹搭檔 潛入超能力學院，調查學
 | :----------- | :------------------------------------ |
 | **又名**     | 密命王牌           |
 | **開發商**   | 柚子社           |
-| **遊戲時長** | 35h                     |
+| **遊戲時長** | 35H（估計）                     |
 | **攻略人數** | 5                     |
-| **類型**     | 科幻 搞笑          |
+| **類型**     | 超能力 搞笑          |
 | **難度**     | 中（選項挺多但是有路線圖）    |
 | **分級**     | R-18（性行爲）      |
 | **遊戲引擎** | KIRIKIRI Z      |
@@ -59,7 +107,7 @@ excerpt: '王牌特務男主角和妹妹搭檔 潛入超能力學院，調查學
 已經忍無可忍的頂頭上司，也就是他們的老爹，決定讓他們倆轉學，<br class="d-none d-md-inline">進入專爲研究 Astral 能力而開設的學校，***橘花學院***，
 同時執行潛伏任務，在特班需要時 從 Astral 研究系統中竊取情報。
 
-然後他們就逐漸接近了學校不可告人的驚天祕密，，，
+然後他們就逐漸接近了這所學校不可告人的驚天祕密，，，
 
 
 ## 登場人物
@@ -174,7 +222,7 @@ excerpt: '王牌特務男主角和妹妹搭檔 潛入超能力學院，調查學
   <p>
     爲人溫柔嫺靜，講話嬌聲奶氣，<br>
     就像大家超喜歡的那種嬌小女孩子，<br>
-    但是實際上性格惡劣，講話黑屁不斷，和我在一起的時候甚至動手 K 人，簡直和『創作女友』中的桐葉有異曲同工之妙，，，
+    但是實際上性格惡劣，講話黑屁不斷，和我在一起的時候甚至動手 K 人，簡直和『創作女友』中的<b><i>桐葉</i></b>有異曲同工之妙，，，
   </p>
 </sp-character>
 <br>
@@ -347,7 +395,7 @@ Galgame 金曲: <a href="/music/?id=26" target="_blank">🔗️astral ability</a
 
 本作雖然非常長，但是我覺得故事節奏比較快，兩個人還沒吃幾頓飯就火速表白了，
 然後爲了揭開後面的劇情，兩人的關係不夠親密，怎麼辦？直接火速做愛，
-於是兩人就變得非常親密，劇情也得以推進。
+於是兩人就變得非常親密，劇情也得以推進；
 
 明明這樣就沒多少 H 場景，卻能給我一種他們動不動就 H，一直在做愛的錯覺，
 真不愧是柚子社，屬實是把 How to sex 玩得 6 極了，
@@ -489,54 +537,6 @@ magnet:?xt=urn:btih:7321dffe0c35fa04ecbb03063d3b38ce43084083
 </div>
 
 ![Poster](../image/RIDDLEJOKER/slider05.webp)
-
-<style>
-.ar16x9{
-  aspect-ratio: 16/9;
-}
-body {
-    background: var(--bg-url) no-repeat fixed center;
-    background-size: cover;
-    /*-webkit-font-smoothing: unset;*/
-}
-#banner {
-    background: url('')!important;
-    background-color: transparent!important;
-}
-#toc {
-     background-color: var(--board-bg-color);
-     padding: 20px 10px 20px 20px;
-     border-radius: 10px;
-}
-#board {
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
-   /* background-color: #3337 !important;*/
-}
-.full-bg-img > .mask {
-  background-color: rgba(0,0,0,0) !important;
-}
-.page-header  {
-  background-color: rgba(0,0,0,0.5);
-  padding: 3px;
-  border-radius: 5px;
-}
-:root {
-  --board-bg-color: rgba(255,255,255,0.7);
-  --bg-url: url('../image/RIDDLEJOKER/bg-l.webp')
-}
-[data-user-color-scheme='dark'] {
-  --board-bg-color: rgba(0,0,0,0.85);
-  --bg-url: url('../image/RIDDLEJOKER/bg-d.webp')
-}
-::selection {
-    /*background-color: #f00;*/
-}
-.page-header .mt-1 span.post-meta {
-    /* 隱藏嚇人的字數統計 */
-    display: none;
-}
-</style>
 
 <script>
   //document.documentElement.setAttribute('data-user-color-scheme', 'dark');
