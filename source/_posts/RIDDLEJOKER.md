@@ -540,15 +540,6 @@ magnet:?xt=urn:btih:7321dffe0c35fa04ecbb03063d3b38ce43084083
 
 <script>
   //document.documentElement.setAttribute('data-user-color-scheme', 'dark');
-  function loadbigimg(){
-    let cover = document.getElementById('coverimage');
-    let btn =  document.getElementById('changesrc');
-    let bigurl = cover.getAttribute('originimg');
-    cover.setAttribute('src', '');
-    cover.setAttribute('src', bigurl);
-    cover.parentElement.setAttribute('href', bigurl);
-    btn.parentElement.removeChild(btn);
-  }
   document.addEventListener("DOMContentLoaded", function(){
     let pclefts = document.querySelectorAll('.pc-left');
     pclefts.forEach((el) => {
