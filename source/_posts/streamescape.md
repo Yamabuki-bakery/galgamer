@@ -9,7 +9,7 @@ tags:
 - 恐怖
 - live2D
 categories:
-- 全年齡
+- 全年龄
 - [游戏公司, qureate]
 abbrlink: 30001
 author: '木衛一'
