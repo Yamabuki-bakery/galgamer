@@ -16,50 +16,52 @@ categories:
   - [游戏公司, MOONSTONE]
 abbrlink: 67843
 author: 桐遠暮羽
-excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀惠里，和助手兩人一起回到家鄉的小島上調查一起離奇的失踪案，然而卻以失敗告終。'
+excerpt: '號稱尋人能「活必見人，死必見屍」的女偵探，真澀惠里，和助手兩人一起回到家鄉的小島上調查一起離奇的失踪案，然而卻以失敗告終。'
 ---
 
 `作者：桐遠暮羽`
 
-號稱尋人能“活必見人，死必見屍”的女偵探，真澀惠里，和助手兩人一起回到家鄉的小島上調查一起離奇的失踪案，然而卻以失敗告終。
+## At A Glance
 
-![](../image/Tokihate/cover.jpg)
+號稱尋人能「活必見人，死必見屍」的女偵探，真澀惠里，和助手兩人一起回到家鄉的小島上調查一起離奇的失踪案，然而卻以失敗告終。
+
+![Cover](../image/Tokihate/cover.jpg)
 
 | 資訊一覽     |                                                              |
 | :----------- | :------------------------------------ |
 | **作品名稱**   |  仄暗き時の果てより    |
-| **開發商**   | <span style="color:red">MOONSTONE</span>（就是做了很多陽間遊戲的那個公司） |
-| **編劇**   | 吳（就是寫了很多陽間劇本的老吳）      |
+| **開發商**   | <span style="color:red">MOONSTONE</span><br>（做了很多陽間遊戲的公司） |
+| **編劇**   | 吳（寫了很多陽間劇本的老吳）      |
 | **遊戲時長** | 30 小時                     |
 | **類型**     | 穿越 恐怖 懸疑 獵奇                 |
-| **難度**     | 中（具有一定數量的分支，但是還好） |
+| **難度**     | 中（選項不多不少，不難選） |
 | **分級**     | R-18（性行爲，血腥，恐怖）      |
 | **遊戲引擎**   | ExHIBIT             |
 
 本文是介紹 MOONSTONE 陽間懸疑解謎遊戲系列的第三篇。
 
-## 故事（官方的介紹）
+<div class="alert alert-success" role="alert">
+  <span class="font-weight-bold font-italic alert-heading" style="font-size: 125%;">更新於 May.10 2022</span>
+  <br>
+  MOONSTONE 好久沒出新鬼片了，我懷念牠們，，，<br>
+  大半夜有點睡不着覺，就起床改改這篇文章。
+</div>
+
+
+## 故事（先來個官方的介紹）
 
 这是一个禁断的——
 
-<br>
-
 夏日。
 
-故事的主人公御城康一，回到了自己出生的小岛。
-
-<br>
+故事的主人公 ***御城康一*** ，回到了自己出生的小岛。
 
 有妹妹在港口迎接。
 有双亲经营的民宿。
 还有那小镇的模样。
 
-<br>
-
 一切仿佛都和从前丝毫未变。
 然而——
-
-<br>
 
 相传，岛上有“怪物”出没。
 据说还有少女会每夜巡逻，试图亲手杀死那只怪物,
@@ -69,29 +71,24 @@ excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀�
 从没把这一切当真的康一，在某天夜里遭到“怪物”袭击，
 千钧一发之时，被一名持刀少女·乾驹子救下。
 
-<br>
-
 康一终于目睹了一切。 
 从黑暗中现身的怪物。
 还有那浓浓夜色中蔓延的世界。 那是个人类决不可窥视的——
-
-<br>
 
 禁断的领域。
 
 ------
 
-俺第一次看官方的介紹的時候，臉上的表情估計是不太好看。
-這個介紹簡直十足地貫徹了日語的謎語風格，
+俺第一次看官方的介紹的時候，臉色估計是不太好看。
+這個介紹簡直十足地貫徹了日本 Galgame 公司的謎語風格，
 
-什麼叫禁斷的夏日？夏日也能禁斷？
+什麼叫禁斷的夏日？夏日還能禁斷？
 俺只聽說過禁斷的戀。
 
-然後中間那幾句看起來有點風平浪靜的描寫，再加上結尾那一個
-人類絕不可窺視的禁斷領域，
+然後中間那幾句看起來有點風平浪靜的描寫，再加上結尾那一個人類絕不可窺視的禁斷領域，
 是不是想營造暴風雨前的寧靜感呢？
 
-營造很成功，很哈人，哈🉐我都開始胡言亂語了
+營造很成功，很哈人，把我都嚇到胡言亂語了屬於是。
 
 ## 故事（我的介紹）
 
@@ -101,15 +98,11 @@ excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀�
 
 那是一個禁斷的——
 
-<br>
-
 暑假。（🤪錯亂
 
-<br>
-
-受到了神秘客戶的委託，偵探助手主人公康一，
-和女偵探惠里一起回到家鄉的小島，調查一起失踪案，
-順便完成每次放假回家必辦的某件事。
+受到了神秘客戶的委託，偵探助手主人公 ***康一***，
+和女偵探 ***惠里*** 一起回到家鄉的小島，調查一起失踪案，
+順便完成每次放假回家必辦的***某件事***。
 
 ![](../image/Tokihate/cg1.webp)
 
@@ -117,17 +110,11 @@ excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀�
 而康一就騎著單車，載著許久不見的妹妹，
 回到了闊別已久的，御城老家開設的民宿。
 
-<br>
-
 在老家邊摸魚邊調查，吊兒郎當過了幾天，
 由於委託人提供的線索實在過於有限，而且好像在特意隱瞞什麼，
 就連號稱尋人能“活必見人，死必見屍”的惠里都沒能在期限內找到失踪的人。
 
-<br>
-
 兩人只能決定明天就啟程離開小島。
-
-<br>
 
 翌日，二人開著車前往港口時，
 迎接他們的是
@@ -139,99 +126,178 @@ excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀�
 <br>
 
 為什麼？為什麼會發生這種事？
-是因為我們的委託失敗了嗎？
+是因為兩人沒有完成委託嗎？
 還是因爲島上潛藏的那頭怪物？
 
 ![](../image/Tokihate/cg4.webp)
 
 無論如何，兩人的人生即將終結於此，
-而那些謎團都如同煙一樣永遠消失在歷史中。
+那些謎團都如同煙一樣永遠消失在歷史中。
 
 ## 登場人物
 
 <style>
-#swipe {
-    width: 100%;
-    height: 100%;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space:nowrap;
-}
-#swipe  .slide {
-    display: inline-block;
-}
-#swipe  .slide img {
-    max-height: 600px;
+  .charname {
+    font-size: 150%;
+  }
+  .namearea hr {
+    margin: 1.5rem 0;
+  }
+  .sp-character img, .img-shade {
+    filter: drop-shadow(0 0 6px #000c);
+  }
+  .sp-character {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+
+    /*-webkit-backdrop-filter: blur(1px);
+    backdrop-filter: blur(1px);
+    
+    background-color: var(--chara-card-color);*/
+    
     background-color: transparent;
-    border: none;
+    background-image: var(--this-bg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .sp-character .char-overlay {
+    background-color: var(--chara-card-color);
+    min-height: 450px;
+    background-image: var(--right-bg);
+    background-repeat: no-repeat;
+    background-position: top 20px right calc(100% * 0.3 - 130px);
+    background-size: 280px;
+
+    margin: 0;
+    padding: 0;
+  }
+  @media screen and (max-width: 767px) {
+    .namearea hr {
+      margin: 1rem 0;
     }
-#swipe  p {
-   margin-right: 30px;
-   display: inline-block;
-}
+    .pc-left {
+      /*-webkit-backdrop-filter: blur(1px);
+      backdrop-filter: blur(1px);*/
+      
+      background: var(--chara-card-color);
+      transition: opacity 0.3s;
+    }
+    .pc-left.touch {
+      opacity: 0.1;
+    }
+    .sp-character {
+     background: unset;
+      /*-webkit-backdrop-filter: unset;
+    backdrop-filter: unset;*/
+    }
+    .sp-character .char-overlay {
+      min-height: unset;
+      background-size: 200px;
+      background-position: top 10px right 0px;
+    }
+    :root { /* 配色 */
+      --chara-card-color: #ffffff87;
+    }
+    [data-user-color-scheme='dark'] {
+      --chara-card-color: #1a1a1aa6;
+    }
+  }
+  :root { /* 配色 */
+  --chara-card-color: #ffffffb3;
+  }
+  [data-user-color-scheme='dark'] {
+    --chara-card-color: #1a1a1aa6;
+  }
 </style>
-<div id="swipe">
-<div class="slide">
-        <img src="../image/Tokihate/chars/chara01.webp"/>
+
+{% template sp-character name no yomi uid html %}
+<div class={`row sp-character ${uid}`} style={`--this-bg: url(../image/Tokihate/chars/chara0${no}_illust.webp)`}>
+  <div class="col-12 char-overlay row" style={`--right-bg: url(../image/Tokihate/chars/chara0${no}.webp)`}>
+    <div class="pc-left col-12 col-md-8">
+      <div class="namearea col-12 pt-2">
+        <div class="charname font-serif font-weight-bold font-italic">
+          {name}
+        </div>
+        <div class="yomi font-italic">
+          {yomi}
+        </div>
+        <hr />
+      </div>
+      <div class="infoarea col-12" html={html}>
+      </div>  
     </div>
-    <div class="slide">
-<p>
-<strong>Komako</strong><br><br>
-乾 駒子<br>
-中文唸起來極其拗口，<br>所以叫 Komako。<br><br>
-在島上上學的高二學生，<br>每天都拿着大刀和怪物搏鬥。<br>
-不知爲何態度總是非常堅定。<br><br>
-就算是暑假也穿校服，<br><em>算是制服戰鬥少女</em>
-</p>
-    </div>
-<div class="slide">
-        <img src="../image/Tokihate/chars/chara02.webp"/>
-    </div>
-    <div class="slide">
-<p>
-<strong>御城 由乃</strong><br><br>
-康一的妹妹<br>
-是 Komako 的同學和好朋友，<br>
-天真爛漫，看起來很幼。<br>
-很粘哥哥，總是盼望着哥哥回家。<br><br>
-</p>
-    </div>
-<div class="slide">
-        <img src="../image/Tokihate/chars/chara03.webp"/>
-    </div>
-    <div class="slide">
-<p>
-<strong>真澀 惠里</strong><br><br>
-偵探，雖然很年輕，<br>但是已經獨自開辦事務所。<br>
-算是所長。<br><br>
-收到了來自小島的委託，<br>所以時隔久遠終於能回家鄉一趟。<br>
-她具有一些特異能力，<br>使得她偵探業務很好辦。<br><br>
-但是她不怎麼喜歡用特異能力。
-</p>
-    </div>
+  </div>  
 </div>
+{% endtemplate %}
+
+<sp-character no=1 name="乾 駒子" yomi="Komako" uid="komako" >
+  <p>
+    名字用中文唸起來過於饒舌，<br>
+    所以直接叫 Komako。
+  </p>
+  <p>
+    在島上上學的高二學生，明明是個 JK，<br>
+    卻每天都拿着大刀和怪物搏鬥，<br>
+    就算是暑假也穿着校服，算是制服戰鬥少女。
+  </p>
+  <p>
+    Komako 非常堅定，總是鍥而不捨地殺着怪物，<br>
+    她的背後肯定有不爲人知的經歷。
+  </p>
+</sp-character>
+<br>
+<sp-character no=2 name="御城 由乃" yomi="妹妹" uid="yuno" >
+  <p>
+    康一的親妹妹，<br>
+    還是 Komako 的同學和好朋友。
+  </p>
+  <p>
+    天真爛漫，明明是個 JK，<br>
+    卻看起來很幼。
+  </p>
+  <p>
+    很粘哥哥，總是盼望着在外上學的哥哥能常回家看看。<br>
+    就連哥哥去殺怪也要跟，簡直膽大包天。
+  </p>
+</sp-character>
+<br>
+<sp-character no=3 name="真澀 惠里" yomi="女偵探所長" uid="eri" >
+  <p>
+    偵探，雖然很年輕，但是已經獨自開辦事務所。<br>
+    所以算是所長和男主的頂頭上司。
+  </p>
+  <p>
+    由於收到了來自小島的委託，所以時隔久遠終於能回家鄉一趟。<br>
+    她具有一些特異能力，使得她偵探業務蒸蒸日上。
+  </p>
+  <p>
+    但是她不怎麼喜歡用特異能力，<br>
+    而且這次的委託也沒能成功完成。
+  </p>
+</sp-character>
+<br>
 
 男主角這個王八蛋連插畫都沒有，就不介紹了
 
-------
-
-人物的印象插畫
-
+<div class="d-block d-md-none">
 {% gallery character %}
 ../image/Tokihate/chars/chara01_illust.webp
 ../image/Tokihate/chars/chara02_illust.webp
 ../image/Tokihate/chars/chara03_illust.webp
 {% endgallery %}
-
+</div>
 
 ## 遊戲 OP 動畫欣賞
 
 動畫來自 YouTube，由知名諤諤次元歌手 霜月はるか 演唱，
 
-我覺得這首歌挺不錯的。
+我覺得這首歌不算特別好聽，但是卻挺帶感的。
 
 <video controls preload="metadata" width='100%' poster="../image/Tokihate/op.webp">
-<source src="https://s3static-zone0.galgamer.eu.org/video-2d35/Tokihate/op-2.mp4" type="video/mp4" />
+<source src="https://s3static-zone0.galgamer.eu.org/video-2d35/Tokihate/op-720.mp4" type="video/mp4" />
 <track default src="../image/Tokihate/op.vtt" label="日文">
 <p> To view this video please enable JavaScript</p>
 </video>
@@ -247,30 +313,34 @@ excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀�
 
 話說回來，遊戲是陰間了點，但是劇本卻是充滿了編劇老吳的風格，毫不含糊，安排緊湊，
 我覺得非常有趣；即使是恐怖遊戲，該和女主角們做愛的地方也毫不含糊。
+
 我在前面劇透了序章會出現殭屍狂潮，然而這不影響序章的觀賞性，
 主角們恐怖緊張的求生之路還是不容錯過。序章已是如此，則正片更令人期待。
 
 寫在最後，所述<span style="color:red">從陰暗的時間盡頭而來</span>，到底是<span style="color:red">誰</span>從陰暗的時間盡頭而來，不如猜猜看。
 
-
-
 ## 遊戲畫面（含有 R-18 畫面）
 
-{% gallery cgs %}
-../image/Tokihate/cg1.webp
-../image/Tokihate/cg2.webp
-../image/Tokihate/cg3.webp
-../image/Tokihate/cg4.webp
-../image/Tokihate/cg5.webp
-../image/Tokihate/cg6.webp
-../image/Tokihate/cg7.webp
-../image/Tokihate/cg8.webp
-../image/Tokihate/cg9.webp
-{% endgallery %}
 
-海報
+![](../image/Tokihate/cg1.webp)
 
-![poster](../image/Tokihate/poster.webp)
+![](../image/Tokihate/cg2.webp)
+
+![](../image/Tokihate/cg3.webp)
+
+![](../image/Tokihate/cg4.webp)
+
+![](../image/Tokihate/cg5.webp)
+
+![](../image/Tokihate/cg6.webp)
+
+![](../image/Tokihate/cg7.webp)
+
+![](../image/Tokihate/cg8.webp)
+
+![](../image/Tokihate/cg9.webp)
+
+![Poster](../image/Tokihate/poster.webp)
 
 ## 在猶豫是否要下載？
 
@@ -284,8 +354,6 @@ excerpt: '號稱尋人能“活必見人，死必見屍”的女偵探，真澀�
 <track src="../image/Tokihate/tokihate-sc.vtt" label="简体中文">
 <p> To view this video please enable JavaScript</p>
 </video>
-
-
 
 ## 資源與下載
 
@@ -303,17 +371,18 @@ magnet:?xt=urn:btih:36718d1709a58a55fe43a92f31fa10f5afe3cd62
 
 破解補丁：進入上述連結的論壇帖子，下載樓主發的附件 「仄暗き時の果てより Crack (Mai).rar」(789.33 KB)，解壓到遊戲目錄的 /data 文件夾。可能會報毒，我已經試過了，應該沒毒。
 
-### 中文版
+### 官方中文版
 
 官方中文版已發佈到 [🔗️HIKARI FIELD 商城](https://store.hikarifield.co.jp/shop/honoguraki)，
 你也可以直接在這裏下載：{% telegram_channel 82 %}
+
+### 非官方漢化版
 
 下面是“默示漢化組”（群友說是機翻漢化組）的非官方漢化版：
 
 {% telegram_channel 83 %}
 
 <br><br>
-
 
 <style>
 .flex-container {
@@ -338,7 +407,7 @@ magnet:?xt=urn:btih:36718d1709a58a55fe43a92f31fa10f5afe3cd62
   <div>
   <div class="card bg-dark" style="max-width: 300px">
   <div class="card-body">
-    <p class="card-text text-white">Telegram Galgame 頻道突破七千訂閱 - 感謝你的喜歡！</p>
+    <p class="card-text text-white">Telegram Galgame 頻道突破一萬訂閱 - 感謝你的喜歡！</p>
     <a href="tg://resolve?domain=Galgamer_Channel" class="card-link btn btn-primary">
     <img width="20px" src="/image/TGLogo.svg" style=" background-color: transparent;"><span style="margin: 4px;">前往頻道</span>
     </a>
@@ -346,3 +415,17 @@ magnet:?xt=urn:btih:36718d1709a58a55fe43a92f31fa10f5afe3cd62
 </div></div> 
 </div>
 <br>
+<script>
+  //document.documentElement.setAttribute('data-user-color-scheme', 'dark');
+  document.addEventListener("DOMContentLoaded", function(){
+    let pclefts = document.querySelectorAll('.pc-left');
+    pclefts.forEach((el) => {
+      el.addEventListener('touchstart', function(){
+        el.classList.add('touch');
+      })
+      el.addEventListener('touchend', function(){
+        el.classList.remove('touch');
+      })
+    });
+  })
+</script>
