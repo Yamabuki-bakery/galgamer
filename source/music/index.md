@@ -64,7 +64,7 @@ banner_img: '/image/music/banner.jpg'
     </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/cplayer/dist/cplayer.min.js"></script>
+<script src="https://js.galgamer.eu.org/npm/cplayer/dist/cplayer.min.js"></script>
 <script defer src="/js/music_page.js?1205"></script>
 
 {% endraw %}
