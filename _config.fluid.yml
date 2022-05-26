@@ -959,12 +959,6 @@ links:
   # Member item of page
   items:
     - {
-      title: "零件's Blog",
-      intro: "Tech Otakus Save The World",
-      link: "https://nekosc.com/",
-      avatar: "/image/main/nekosc.png"
-    }
-    - {
       title: "Galgame 交流群",
       intro: "我們的討論區",
       link: "https://telega.one/Galgamer",
@@ -975,6 +969,18 @@ links:
       intro: "編輯部的碎碎念（接受文章投稿！）",
       link: "https://telega.one/KiritouKureha",
       avatar: "/image/main/kiriha.webp"
+    }
+    - {
+      title: "莱茵图书馆",
+      intro: "上谷歌之前先去這裏看一看...？",
+      link: "https://telega.one/RhineLibrary",
+      avatar: "/image/main/rhine.webp"
+    }
+    - {
+      title: "零件's Blog",
+      intro: "Tech Otakus Save The World",
+      link: "https://nekosc.com/",
+      avatar: "/image/main/nekosc.png"
     }
     - {
       title: "谷歌搜索",
