@@ -119,3 +119,8 @@ img.layer-border {
 .navbar.navbar-col-show .navbar-toggler .animated-icon span {
   background-color: var(--navbar-text-color);
 }
+
+/* 修補代碼行下方的空白 */
+.markdown-body pre {
+  margin-bottom: unset;
+} 
