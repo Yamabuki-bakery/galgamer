@@ -213,6 +213,11 @@ JZ  地址
 循環結束後 **EAX** 是字符串結束地址加一，**EDX** 是字符串開始地址加一，相減以後就是字符串長度，然後如果長度等於 **11** 則跳轉。
 所以我們已經知道了激活碼一定是十一位長度。
 
+<div class="alert alert-success" role="alert">
+  <span class="alert-heading" style="font-size: 125%;">🤔循環</span><br>
+  遇到循環先搞清楚作用然後再跳出，特別要關注循環的次數。
+</div>
+
 過了長度判定之後又是一個循環，如圖所示：
 
 ![圖 4-4 轉換成大寫](../image/note-dc4crack/4-4.webp)
