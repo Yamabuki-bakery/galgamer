@@ -66,6 +66,15 @@ e.innerHTML = b + a + c + d;
 <img src="../image/SousakuKanojo/tg_preview.jpg" loading="lazy" class="d-none"/>
 
 
+<div class="alert alert-danger" role="alert">
+  <span class="alert-heading" style="font-size: 150%;">⚠️重要提示</span><br>
+  如果你對這個遊戲有興趣，那請千萬不要進行以下行爲：<br>
+  CG 觀賞、存檔下載、觀看逼站/論壇的點評、觀看別人的遊玩錄像、發表對本作遊戲的劇透...<br>
+  等一系列可能會導致劇透的有關行爲，<br>
+  <strong>遭到劇透會導致本遊戲遊玩體驗直接報廢，請注意。</strong>
+  本文沒有劇透請放心觀看。
+</div>
+
 ## At A Glance
 
 普通的 JK 普通地魅力四射，但是魅力能射殺人的 才華橫溢創作 JK 找上你，要和你 譜寫創作、戀情和青春的樂章。
