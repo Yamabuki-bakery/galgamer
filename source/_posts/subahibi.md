@@ -3,7 +3,7 @@ title: '美好的每一天 ~不連續的存在~：副標題待定'
 date: 2022-6-25 00:30:00
 keywords: "待定" 
 banner_img: ''
-index_img: '../image/subahibi/index.webp'
+index_img: '../image/subahibi/cover.jpg'
 tags:
   - 解谜
   - 电波
@@ -31,8 +31,11 @@ excerpt: '待定'
 ---
 
 <style>
-.ar16x9{
-  aspect-ratio: 16/9;
+.ar4x3{
+  aspect-ratio: 4/3;
+}
+.ar8x3{
+  aspect-ratio: 8/3;
 }
 body {
     background: var(--bg-url) no-repeat fixed center;
@@ -62,11 +65,11 @@ body {
   border-radius: 5px;
 }
 :root {
-  --board-bg-color: rgba(255,255,255,0.7);
+  --board-bg-color: rgba(255,255,255,0.85);
   --bg-url: url('../image/subahibi/bg-l.webp')
 }
 [data-user-color-scheme='dark'] {
-  --board-bg-color: rgba(0,0,0,0.85);
+  --board-bg-color: rgba(0,0,0,0.80);
   --bg-url: url('../image/subahibi/bg-d.webp')
 }
 ::selection {
@@ -80,14 +83,12 @@ body {
 
 `作者：Kimika`
 
-<img src="../image/subahibi/tg-preview.jpg" class="d-none">
-
 ## At A Glance
 
 摘要：待定
 
 <p id="coverimage-warp">
-  <img src="../image/subahibi/index.webp" loading="lazy" class="img-lazy ar16x9" alt="Cover">
+  <img src="../image/subahibi/cover.jpg" loading="lazy" class="img-lazy" alt="Cover">
 </p>
 
 
@@ -97,13 +98,13 @@ body {
 | **遊戲時長** | 35H（估計）                     |
 | **攻略人數** | 0                     |
 | **章節數**   | 7                     |
-| **難度**     | 高（解鎖所有結局需要攻略，并且敘事過程可能令人看不懂）    |
+| **難度**     | 高<br>（解鎖所有結局需要攻略，<br>并且敘事過程可能令人看不懂）    |
 | **分級**     | R-18（性行爲，犯罪，殘酷）      |
 | **遊戲引擎** | BURIKO General Interpreter   |
 
 
 <div class="alert alert-success" role="alert">
-  <span class="alert-heading" style="font-size: 125%;">第一印象</span><br>
+  <span class="alert-heading font-weight-bold" style="font-size: 125%;">第一印象</span><br>
   <p>
     本游戲作爲十二神器裏面最出名的一部，吸引了很多人慕名前來，<br>
     但是網上各種語焉不詳的介紹卻讓人摸不着頭腦，不知道這個游戲是否適合自己玩。
@@ -144,19 +145,51 @@ A：別催，先來看一下 CG 瞭解一下游戲的氣氛，，，
 
 ## 遊戲 CG
 
-待補充
 
-<p>
-  <img class="img-lazy ar16x9" src="../image/RIDDLEJOKER/cg/9.webp" loading="lazy"/>
-</p>
+<div class="row m-1">
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/0.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/2.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/4.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/6.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/7.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/8.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/b.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/d.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/g.webp" loading="lazy"/>
+  </div>
+  <div class="col-12 col-md-6 p-1 round">
+    <img class="img-lazy rounded ar4x3 box-shadow" src="../image/subahibi/cg/h.webp" loading="lazy"/>
+  </div>
+</div>
 
+
+請記住劇中人物長什麼樣，然後接下來簡單講一下遊戲的故事，，，
 
 ## 故事（少量劇透序章，不影響遊玩）
 
 這個世界就是一個巨大的牢籠，然後這是一個不斷從牢籠之中掙脫的故事。而世界的意義僅存在於世界之外，因此在牢籠之中的人不知道自己身處牢籠之中。
 *翻譯成人話：只有從牢籠中掙脫出來，回過頭，才能真正理解到底是什麽發生在了自己身上。*
 
-插圖：待補充
+<p>
+  <img class="img-lazy ar8x3" src="../image/subahibi/scn/0.webp" loading="lazy"/>
+</p>
 
 文武雙全，頭腦靈光，觀察力洞悉一切的完美美少女***水上由岐***（唸作 Yuki）有時候會進入賢者狀態，
 比如説站在樓頂上一邊抽著菸 一邊對著天空感嘆<span class="text-danger">「靠北喔天空怎麽那麽藍，那麽大，就像延伸到了世界的盡頭，讓我有點害怕」</span>
@@ -166,19 +199,27 @@ A：別催，先來看一下 CG 瞭解一下游戲的氣氛，，，
 誰讓 Yuki 是一個完美的美少女，讓鏡忍不住發射 SukiSuki 光波！喜歡得不得了呢，Yuki 就開始有恃無恐地捉弄鏡，
 然後惱羞成怒的傲嬌鏡炸了，拖著司氣呼呼地走了。
 
-插圖：待補充
+<p>
+  <img class="img-lazy ar8x3" src="../image/subahibi/scn/1.webp" loading="lazy"/>
+</p>
 
 買完碟的 Yuki 走在了回家的路上，路過了一棟公寓樓的時候，Yuki 突然脊背一涼感覺大事不妙，擡頭一看，
 靠腰居然有人飛在半空中，還有另外一個人站在樓頂的邊緣搖搖欲墜！有人跳樓！
 Yuki 火速衝進電梯，衝上樓頂，然後看到了一個正準備跳樓的少女***高島石榴***。
 
-插圖：待補充
+<p>
+  <img class="img-lazy ar8x3" src="../image/subahibi/scn/2.webp" loading="lazy"/>
+</p>
 
 Yuki 剛準備質問你在幹什麽的時候，才發現高島正拿著毛絨玩偶往樓下扔，還以爲是有人跳樓呢，嚇死人。
 <span class="text-danger">「你在幹什麽呢？？」</span>Yuki 質問道。
 <span class="text-danger">「我在讓世界少女和天空少女相會。」</span>高島回答道。
-然後嘴裏還一邊説著什麽<span class="text-danger">「夏夜的大三角形」</span>之類的令人琢磨不着的話，
+然後嘴裏還一邊説著什麽<span class="text-danger">「夏夜的大三角形」</span>之類的令人琢磨不透的話，
 Yuki 心想，這神經病放著不管怕是會真跳樓，就説<span class="text-danger">好好，我幫你一起找世界少女和天空少女，你跟我來。</span>於是高島就被帶回了 Yuki 家。
+
+<p>
+  <img class="img-lazy ar8x3" src="../image/subahibi/scn/3.webp" loading="lazy"/>
+</p>
 
 傲嬌鏡看到 Yuki 家竟然進了別的女人，就開始抗議，說我們也要住 Yuki 家！
 然後四人一起洗澡，一起睡覺，一起找天空少女和世界少女，直到了暑假結束的那一天。
@@ -186,14 +227,21 @@ Yuki 心想，這神經病放著不管怕是會真跳樓，就説<span class="te
 高島說，<span class="text-danger">和你們度過暑假讓我很快樂，Yuki 你快跟我來，我給你看點大的。</span>
 然後高島就把 Yuki 拉上了銀河俠盜(鐵道)列車，穿過了宇宙中各種各樣的星雲，最後升天了，，，
 
-插圖：待補充
+<p>
+  <img class="img-lazy ar8x3" src="../image/subahibi/scn/4.webp" loading="lazy"/>
+</p>
 
 Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之中，於是 Yuki 火速趕往地鐵站。
-買完碟的 Yuki 走在了回家的路上，路過了一棟公寓樓的時候，剎那間三個人從天而降，摔在地上變成了碎片和血肉。
+在地鐵站她又遇到了***高島石榴***，然後高島二話不說直接親了過來，親完就跑路了。
 
-其中一個人是身穿同樣學校制服的***高島石榴***。
+留下在原地不知所措的 Yuki。
 
-Yuki 回到學校，整個學校已經籠罩在了恐懼和謠言之中，而洞悉一切的完美少女 Yuki 肯定不吃這一套，於是開始著手調查此事，
+<p>
+  <img class="img-lazy ar8x3" src="../image/subahibi/scn/5.webp" loading="lazy"/>
+</p>
+
+第二天 Yuki 回到學校，卻發現整個學校已經籠罩在了恐懼之中，向同學打聽了才得知高島石榴已經在昨晚跳樓自殺。
+雖然疑點重重外加流言漫天，但洞悉一切的完美少女 Yuki 並不吃這一套，於是開始著手調查此事，
 但是無論她如何調查，總是離真相只有一步之遙，就如同是可望不可即的鏡中世界，真相在無法企及的鏡面的那一側。
 
 這個世界就是一個巨大的牢籠，然後這是一個不斷從牢籠之中掙脫的故事。而世界的意義僅存在於世界之外，因此在牢籠之中的人不知道自己身處牢籠之中，
@@ -353,6 +401,32 @@ Yuki 家隔壁的雙胞胎女孩，三人既是一起長大的青梅竹馬，也
 
 ## 一句話點評
 
+都寫到這裏了，就來回答一下這個問題吧：
+
+**Q：所以這游戲到底是幹嘛的？**
+A：沒玩過的新玩家可以直接把**素晴日々**當成一個摻雜了各種哲學思考和地獄笑話要素的解謎遊戲。
+
+在接觸這個遊戲之前，我僅僅是處於那種久聞本作大名，稍微有點在意的狀態，但是並沒有很想玩，
+主要是因爲畫風看上去有點陳舊（陳舊到不像是一個 2010 年的遊戲），並且官網的故事介紹語焉不詳，
+什麼「每一個故事都是旋律」天知道是什麼鬼意思，，，
+
+而且俺不太喜歡看網上的介紹，因爲很多網站都是直接丟個從官網抄過來的土製翻譯外加一個壓縮包，
+（俺根本就不缺壓縮包好吧）要不就是動漫婆羅門爭當素學家故弄玄虛，要麼就是全部一瞬劇透完畢。
+所以當時我是完全不知道這個遊戲是在幹嘛。
+
+讓我入坑的契機是，我看到群友在 Steam 上買了 Wonderful Everyday，要知道這玩意是英文的，
+牠明顯是可以玩盜版卻還是補了票，俺相信群友的品味，所以就下了十週年紀念版來試玩了一下。
+
+畫風是有點陳舊，但是看多了卻覺得怪可愛的（除了該死的高島石榴），並且 BGM 做得非常動聽應景。
+故事組織上由於插入了太多哲學，總是讓我忍不住想要退坑，但是最終還是通關了，因爲解謎要素還是很頂的。
+
+要問我玩完這個遊戲感覺怎麼樣，我感覺絕對的中立，既沒有很後悔也沒有很相見恨晚，畢竟俺被迫啃了一嘴莫名其妙的哲學，但是與此相對的，故事還是挺神的，作爲神器當之無愧。
+
+希望這篇文章能讓你決定要不要去玩這個遊戲。
+
+## 遊戲 OP
+
+OP 看上去很歡快，但是實際上不是這樣的，，，
 
 ## R-18 場景
 
@@ -395,6 +469,6 @@ Yuki 家隔壁的雙胞胎女孩，三人既是一起長大的青梅竹馬，也
         el.classList.remove('touch');
       })
     });
-    setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 1000)
+    //setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 1000)
   })
 </script>
