@@ -31,7 +31,7 @@ excerpt: '待定'
 ---
 
 <style>
-.ar4x3{
+.ar4x3 {
   aspect-ratio: 4/3;
 }
 .ar8x3{
@@ -66,11 +66,13 @@ body {
 }
 :root {
   --board-bg-color: rgba(255,255,255,0.85);
-  --bg-url: url('../image/subahibi/bg-l.webp')
+  --bg-url: url('../image/subahibi/bg-l.webp');
+  --name-select-color: #4d8aff;
 }
 [data-user-color-scheme='dark'] {
   --board-bg-color: rgba(0,0,0,0.80);
-  --bg-url: url('../image/subahibi/bg-d.webp')
+  --bg-url: url('../image/subahibi/bg-d.webp');
+  --name-select-color: violet;
 }
 ::selection {
     /*background-color: #f00;*/
@@ -79,7 +81,12 @@ body {
     /* 隱藏嚇人的字數統計 */
     display: none;
 }
+#carousel-cover {
+  aspect-ratio: 22/15;
+}
 </style>
+
+<img src="../image/subahibi/cover.jpg" loading="lazy" class="d-none">
 
 `作者：Kimika`
 
@@ -87,10 +94,13 @@ body {
 
 摘要：待定
 
-<p id="coverimage-warp">
-  <img src="../image/subahibi/cover.jpg" loading="lazy" class="img-lazy" alt="Cover">
-</p>
+{% gallery cover %}
+../image/subahibi/cover.jpg
+../image/subahibi/master.webp
+../image/subahibi/master03.webp
+{% endgallery %}
 
+<br>
 
 | 資訊一覽     |                 |
 | :----------- | :------------------------------------ |
@@ -144,7 +154,6 @@ A：那還推個🔨，有這時間不如去玩紙上的魔法使。
 A：別催，先來看一下 CG 瞭解一下游戲的氣氛，，，
 
 ## 遊戲 CG
-
 
 <div class="row m-1">
   <div class="col-12 col-md-6 p-1 round">
@@ -247,8 +256,6 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 這個世界就是一個巨大的牢籠，然後這是一個不斷從牢籠之中掙脫的故事。而世界的意義僅存在於世界之外，因此在牢籠之中的人不知道自己身處牢籠之中，
 無論是夢中世界還是現實世界。
 
-## 路線圖
-
 ## 登場人物
 
 <style>
@@ -280,11 +287,11 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
   }
   .sp-character .char-overlay {
     background-color: var(--chara-card-color);
-    min-height: 450px;
+    min-height: 400px;
     background-image: var(--right-bg);
     background-repeat: no-repeat;
-    background-position: top 0px right calc(100% * 0.3 - 130px);
-    background-size: 300px;
+    background-position: bottom 0 left calc(100% * 0.1 - 50px);
+    background-size: 400px;
 
     margin: 0;
     padding: 0;
@@ -299,14 +306,14 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
     .namearea hr {
       margin: 1rem 0;
     }
-    .pc-left {
+    .pc-right {
       -webkit-backdrop-filter: blur(3px);
       backdrop-filter: blur(3px);
       
       background: var(--chara-card-color);
       transition: opacity 0.3s;
     }
-    .pc-left.touch {
+    .pc-right.touch {
       opacity: 0.1;
     }
     .sp-character {
@@ -317,7 +324,7 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
     .sp-character .char-overlay {
       min-height: unset;
       background-size: contain;
-      background-position: bottom 0px right 0px;
+      background-position: bottom 0px left 0px;
     }
     :root { /* 配色 */
       --chara-card-color: #ffffff87;
@@ -329,74 +336,103 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 </style>
 
 {% template sp-character name no yomi uid html %}
-<div class={`row sp-character ${uid}`} style={`--this-bg: url(../image/RIDDLEJOKER/chars/${no}b.webp)`}>
-  <div class="col-12 char-overlay row" style={`--right-bg: url(../image/RIDDLEJOKER/chars/${no}.webp)`}>
-    <div class="pc-left col-12 col-md-8">
-      <div class="namearea col-12 pt-2">
+<div class={`row sp-character ${uid}`} style={`--this-bg: url(../image/subahibi/chars/b${no}.webp)`}>
+  <div class="col-12 char-overlay row" style={`--right-bg: url(../image/subahibi/chars/${no}.webp)`}>
+    <div class="pc-right col-12 col-md-8 ml-auto">
+      <div class="namearea col-12 pt-2 px-2">
         <div class="charname font-serif font-weight-bold font-italic">
           {name}
         </div>
         <div class="yomi font-italic">
           {yomi}
         </div>
-        <hr />
+        <hr class="my-2" />
       </div>
-      <div class="infoarea col-12" html={html}>
+      <div class="infoarea col-12 px-2" html={html}>
       </div>  
     </div>
   </div>  
 </div>
 {% endtemplate %}
 
-<sp-character no=0 name="綾瀬" yomi="我的同班同學" uid="ayase">
+<sp-character no=0 name="水上由岐" yomi="Yuki" uid="Yuki">
   <p>
-    buff 疊高高的人，<br>
-    不僅是我的同班同學，還是學校的看板娘，<br>
-    還是學園 idol，還是學生會長，還是....
+    女主角，家裏外公是開道場的，因此 Yuki 武力值很高，動手 K 人毫不猶豫。<br>
+    絕對的武力就是絕對的自信，這塑造了她開朗率真，嫉惡如仇的性格。
   </p>
   <p>
-    本身是 Astral 能力者，再加上她經常上電視，接受採訪，唱歌跳舞，<br>
-    榮獲「這個 Astral 能力者超可愛！」排名第一名。
+    在劇中是帶有男子氣概的大姐姐，無論男生女生都喜歡她。
   </p>
   <p>
-    爲人溫柔嫺靜，講話嬌聲奶氣，<br>
-    就像大家超喜歡的那種嬌小女孩子，<br>
-    但是實際上性格惡劣，講話黑屁不斷，和我在一起的時候甚至動手 K 人，簡直和『創作女友』中的<b><i>桐葉</i></b>有異曲同工之妙，，，
+    在調查「自殺事件」的時候展現出了超高的行動力，無論是真人快打還是網上衝浪都毫不手軟。<br>
+    只不過她的障礙是「世界」。
   </p>
 </sp-character>
+<br>
+<sp-character no=1 name="高島石榴" yomi="Zakuro" uid="Zakuro">
+  <p>
+    太過於溫柔以至於軟弱的少女，在學校裏是 Yuki 她們的隔壁班同學。<br>
+    如此軟弱的人一旦被捲進學校的黑暗面就毫無還手之力，導致了跳樓的悲慘結局。
+  </p>
+  <p>
+    這個社會多多少少有點病入膏肓，但是平常就像滿是 bug 卻能跑起來的代碼那樣風平浪靜，<br>
+    高島的死掀翻了風平浪靜的表面，把世界帶向了瘋狂宇宙。
+  </p>
+  <p>
+    （有時候我看她那慫樣都想錘牠）
+  </p>
+</sp-character>
+<br>
+<style>
+  .wakatsuki.left .char-overlay{
+    --right-bg: url(../image/subahibi/chars/2.webp);
+  }
+  .wakatsuki.left .kagami {
+    color: var(--name-select-color);
+  } 
+  .wakatsuki.right .char-overlay{
+    --right-bg: url(../image/subahibi/chars/3.webp);
+  }
+  .wakatsuki.right .tsukasa {
+    color: var(--name-select-color);
+  }
+</style>
+<div class="row sp-character wakatsuki left" style="--this-bg: url(../image/subahibi/chars/b2.webp)">
+  <div class="col-12 char-overlay row">
+    <div class="pc-right col-12 col-md-8 ml-auto">
+      <div class="namearea col-12 pt-2 px-2">
+        <div class="charname font-serif font-weight-bold font-italic">
+          <span class="kagami">若槻鏡</span> & <span class="tsukasa">若槻司</span> 
+          <span class="namespin">⇔</span>
+        </div>
+        <div class="yomi font-italic">
+          <span class="kagami">Kagami</span> & <span class="tsukasa">Tsukasa</span>
+        </div>
+        <hr class="my-2" />
+      </div>
+      <div class="infoarea col-12 px-2">
+        <p>
+          Yuki 家隔壁的雙胞胎女孩，三人既是一起長大的青梅竹馬，也是同班同學。<br>
+          因爲 Yuki 很能打，所以兩人要是出了啥事都是讓 Yuki 來擺平，<br>
+          因此她們也越來越喜歡 Yuki。
+        </p>
+        <p>
+          兩人會和 Yuki 一起上學，吃便當，<br>
+          然而 Kagami 是傲嬌雙馬尾，被 Yuki 稍微捉弄一下就會炸，炸了以後溫柔的司就會來安撫。<br>
+        </p>
+        <p>
+          我覺得兩人在劇中是相當可愛的角色，只可惜這遊戲並不是萌豚戀愛，我的 Kagami，，，
+        </p>
+      </div>  
+    </div>
+  </div>  
+</div>
 
-水上由岐（Yuki）
+### 其他人物
 
-女主角，家裏外公是開道場的，因此 Yuki 武力值很高，動手 K 人毫不猶豫。
-絕對的武力就是絕對的自信，這塑造了她開朗率真，嫉惡如仇的性格。
+![放一張 PPT](../image/subahibi/chars/others.webp)
 
-在劇中屬於是帶有男子氣概的大姐姐角色，無論男生女生都喜歡她。
-
-在調查「自殺事件」的時候展現出了超高的行動力，無論是真人快打還是網上衝浪都毫不手軟。
-但是她的障礙是「世界」。
-
-
-若槻鏡 & 若槻司（Kagami & Tsukasa）
-
-Yuki 家隔壁的雙胞胎女孩，三人既是一起長大的青梅竹馬，也是同班同學。
-因爲 Yuki 很能打，所以兩人要是出了啥事都是讓 Yuki 來擺平，
-因此她們也越來越喜歡 Yuki。
-
-兩人會和 Yuki 一起上學，做便當，
-然而 Kagami 是傲嬌雙馬尾，被 Yuki 稍微捉弄一下就會炸，炸了以後溫柔的司就會來安撫。
-
-我覺得兩人在劇中是相當可愛的角色，只可惜這遊戲並不是萌豚戀愛，我的 Kagami，，，
-
-
-高島石榴（Zakuro）
-
-太過於溫柔以至於軟弱的少女，在學校裏是 Yuki 她們的隔壁班同學。
-如此軟弱的人一旦被捲進學校的黑暗面就毫無還手之力，導致了跳樓的悲慘結局。
-
-這個社會多多少少有點病入膏肓，但是平常就像滿是 bug 卻能跑起來的代碼那樣風平浪靜，
-高島的死掀翻了風平浪靜的表面，把世界帶向了瘋狂宇宙。
-
-（有時候我看她那慫樣都想錘牠）
+## 路線圖
 
 
 ## 一句話點評
@@ -426,20 +462,39 @@ A：沒玩過的新玩家可以直接把**素晴日々**當成一個摻雜了各
 
 ## 遊戲 OP
 
+十週年紀念版居然用的還是老 OP，連 LOGO 都不換一個
+
+<div class="col-lg-10 col-auto">
+  <video  controls width='100%' preload="metadata" poster='../image/subahibi/op.jpg'>
+  <source src="https://s3static-zone0.galgamer.eu.org/video-2d35/subahibi/subaop.mp4" type="video/mp4"/>
+  <p> To view this video please enable JavaScript</p>
+  </video>
+  </div>
+
 OP 看上去很歡快，但是實際上不是這樣的，，，
 
 ## R-18 場景
 
-{% gallery hcg %}
-../image/RIDDLEJOKER/cg/a.webp
+{% gallery rcg %}
+../image/subahibi/cg/r18/3.webp
+../image/subahibi/cg/r18/9.webp
+../image/subahibi/cg/r18/a.webp
+../image/subahibi/cg/r18/c.webp
 {% endgallery %}
 
 ## 遊戲畫面
 
-{% gallery screen %}
-../image/RIDDLEJOKER/scn/0.webp
+<p>
+  <img class="img-lazy ar4x3" src="../image/subahibi/scn/a.webp" loading="lazy"/>
+</p>
 
-{% endgallery %}
+<p>
+  <img class="img-lazy ar4x3" src="../image/subahibi/scn/b.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar4x3" src="../image/subahibi/scn/f.webp" loading="lazy"/>
+</p>
 
 
 ## 還在猶豫是否下載？
@@ -460,8 +515,8 @@ OP 看上去很歡快，但是實際上不是這樣的，，，
 <script>
   //document.documentElement.setAttribute('data-user-color-scheme', 'dark');
   document.addEventListener("DOMContentLoaded", function(){
-    let pclefts = document.querySelectorAll('.pc-left');
-    pclefts.forEach((el) => {
+    let pcrights = document.querySelectorAll('.pc-right');
+    pcrights.forEach((el) => {
       el.addEventListener('touchstart', function(){
         el.classList.add('touch');
       })
@@ -469,6 +524,17 @@ OP 看上去很歡快，但是實際上不是這樣的，，，
         el.classList.remove('touch');
       })
     });
+    let wakatsuki = document.querySelector('.sp-character.wakatsuki');
+    let wakatsukiName = document.querySelector('.sp-character.wakatsuki .namearea');
+    wakatsukiName.addEventListener('click', function () {
+      if(wakatsuki.classList.contains('left')){
+        wakatsuki.classList.remove('left');
+        wakatsuki.classList.add('right');
+      }else{
+        wakatsuki.classList.remove('right');
+        wakatsuki.classList.add('left');
+      }
+    })
     //setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 1000)
   })
 </script>
