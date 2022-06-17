@@ -48,7 +48,7 @@ list_of_original_images = get_images()
 # https://stackoverflow.com/a/48066158
 def convert_to_webp(image):
         try:
-            quality = 75
+            quality = 80
             filename, extension = image, image.split('.')[1]
             filename_without_extension = filename.replace(
                     '.{}'.format(extension), '')
