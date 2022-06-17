@@ -1,7 +1,7 @@
 ---
-title: '美好的每一天 ~不連續的存在~：副標題待定'
+title: '美好的每一天 ~不連續的存在~：無法理解的世界'
 date: 2022-6-25 00:30:00
-keywords: "待定" 
+keywords: "美好的每一天, Wonderful Everyday, kero Q, ケロQ, 十二神器" 
 banner_img: ''
 index_img: '../image/subahibi/cover.jpg'
 tags:
@@ -27,7 +27,7 @@ categories:
   - [游戏公司, ケロQ]
 abbrlink: 20016
 author: 'Kimika'
-excerpt: '待定'
+excerpt: '世界的意義僅存在於世界之外，世界中的一切如同理所當然般地存在和發生，且世界之中不存在價值。'
 ---
 
 <style>
@@ -92,7 +92,7 @@ body {
 
 ## At A Glance
 
-摘要：待定
+歡迎來到素晴日々安利文章。
 
 {% gallery cover %}
 ../image/subahibi/cover.jpg
@@ -107,7 +107,7 @@ body {
 | **開發商**   | ケロQ           |
 | **遊戲時長** | 35H（估計）                     |
 | **攻略人數** | 0                     |
-| **章節數**   | 7                     |
+| **章節數**   | 6                     |
 | **難度**     | 高<br>（解鎖所有結局需要攻略，<br>并且敘事過程可能令人看不懂）    |
 | **分級**     | R-18（性行爲，犯罪，殘酷）      |
 | **遊戲引擎** | BURIKO General Interpreter   |
@@ -116,7 +116,7 @@ body {
 <div class="alert alert-success" role="alert">
   <span class="alert-heading font-weight-bold" style="font-size: 125%;">第一印象</span><br>
   <p>
-    本游戲作爲十二神器裏面最出名的一部，吸引了很多人慕名前來，<br>
+    本游戲作爲十二神器裏面最出名的一部，吸引了很多人慕名而來，<br>
     但是網上各種語焉不詳的介紹卻讓人摸不着頭腦，不知道這個游戲是否適合自己玩。
   </p>
   <p>
@@ -133,7 +133,7 @@ body {
 **Q：素晴日々 這個游戲爲什麽在十二神器裏面這麽出名？**
 A：這個游戲的特點在於其非常獨特的敘事手法和劇情安排。從一個通關的人的角度來看，本作的劇情其實并不複雜，就是一連串戲劇性的故事。
 但是在講述這個故事的時候，使用了各種掐頭去尾，添油加醋，插入哲學甚至讓劇中人物大腦降級，對眼前發生的事情視而不見等手法，
-最後讓整個流程變爲地獄笑話。
+最後讓整個過程變爲地獄笑話。
 
 **Q：美好的每一天 是什麽意思？指的是什麽？**
 A：説實話我玩完了也不太清楚，有可能指的是和朋友一起的美好日常，也可能指的是如果沒遭到那件壞事的話，本來應該存在的美好日常。
@@ -193,8 +193,8 @@ A：別催，先來看一下 CG 瞭解一下游戲的氣氛，，，
 
 ## 故事（少量劇透序章，不影響遊玩）
 
-這個世界就是一個巨大的牢籠，然後這是一個不斷從牢籠之中掙脫的故事。而世界的意義僅存在於世界之外，因此在牢籠之中的人不知道自己身處牢籠之中。
-*翻譯成人話：只有從牢籠中掙脫出來，回過頭，才能真正理解到底是什麽發生在了自己身上。*
+這個世界就是一個巨大的牢籠，然後這是一個從牢籠之中掙脫的故事。而世界的意義僅存在於世界之外，因此在牢籠之中的人不知道自己身處牢籠之中。
+*翻譯成人話：人們只有掙脫出這個世界，回過頭來，才能最終理解到底是什麽發生在了自己身上。*
 
 <p>
   <img class="img-lazy ar8x3" src="../image/subahibi/scn/0.webp" loading="lazy"/>
@@ -212,7 +212,7 @@ A：別催，先來看一下 CG 瞭解一下游戲的氣氛，，，
   <img class="img-lazy ar8x3" src="../image/subahibi/scn/1.webp" loading="lazy"/>
 </p>
 
-買完碟的 Yuki 走在了回家的路上，路過了一棟公寓樓的時候，Yuki 突然脊背一涼感覺大事不妙，擡頭一看，
+Yuki 找着 CD 店，在路過了一棟公寓樓的時候，突然脊背一涼感覺大事不妙，擡頭一看，
 靠腰居然有人飛在半空中，還有另外一個人站在樓頂的邊緣搖搖欲墜！有人跳樓！
 Yuki 火速衝進電梯，衝上樓頂，然後看到了一個正準備跳樓的少女***高島石榴***。
 
@@ -220,11 +220,11 @@ Yuki 火速衝進電梯，衝上樓頂，然後看到了一個正準備跳樓的
   <img class="img-lazy ar8x3" src="../image/subahibi/scn/2.webp" loading="lazy"/>
 </p>
 
-Yuki 剛準備質問你在幹什麽的時候，才發現高島正拿著毛絨玩偶往樓下扔，還以爲是有人跳樓呢，嚇死人。
+Yuki 剛準備質問你在幹什麽的時候，才發現高島正拿著毛絨玩偶往樓下扔，還以爲是有人跳樓呢，嚇死我了。
 <span class="text-danger">「你在幹什麽呢？？」</span>Yuki 質問道。
 <span class="text-danger">「我在讓世界少女和天空少女相會。」</span>高島回答道。
-然後嘴裏還一邊説著什麽<span class="text-danger">「夏夜的大三角形」</span>之類的令人琢磨不透的話，
-Yuki 心想，這神經病放著不管怕是會真跳樓，就説<span class="text-danger">好好，我幫你一起找世界少女和天空少女，你跟我來。</span>於是高島就被帶回了 Yuki 家。
+接着嘴裏還一邊説著什麽<span class="text-danger">「夏夜的大三角形」</span>之類的令人琢磨不透的話，
+Yuki 心想，這神經病要是放著不管怕是會真跳樓，就説<span class="text-danger">好好，我幫你一起找世界少女和天空少女，你跟我來。</span>於是高島就被帶回了 Yuki 家。
 
 <p>
   <img class="img-lazy ar8x3" src="../image/subahibi/scn/3.webp" loading="lazy"/>
@@ -241,7 +241,7 @@ Yuki 心想，這神經病放著不管怕是會真跳樓，就説<span class="te
 </p>
 
 Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之中，於是 Yuki 火速趕往地鐵站。
-在地鐵站她又遇到了***高島石榴***，然後高島二話不說直接親了過來，親完就跑路了。
+在地鐵站她又遇到了***高島石榴***，沒想到高島二話不說直接親了過來！親完就跑路了。
 
 留下在原地不知所措的 Yuki。
 
@@ -249,12 +249,13 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
   <img class="img-lazy ar8x3" src="../image/subahibi/scn/5.webp" loading="lazy"/>
 </p>
 
-第二天 Yuki 回到學校，卻發現整個學校已經籠罩在了恐懼之中，向同學打聽了才得知高島石榴已經在昨晚跳樓自殺。
+第二天 Yuki 回到學校，卻發現整個學校已經籠罩在了恐懼之中，向同學打聽了才得知昨天還在和我親嘴的高島石榴已經在昨晚跳樓自殺。
+
 雖然疑點重重外加流言漫天，但洞悉一切的完美少女 Yuki 並不吃這一套，於是開始著手調查此事，
 但是無論她如何調查，總是離真相只有一步之遙，就如同是可望不可即的鏡中世界，真相在無法企及的鏡面的那一側。
 
 這個世界就是一個巨大的牢籠，然後這是一個不斷從牢籠之中掙脫的故事。而世界的意義僅存在於世界之外，因此在牢籠之中的人不知道自己身處牢籠之中，
-無論是夢中世界還是現實世界。
+無論是在夢中世界還是現實世界。
 
 ## 登場人物
 
@@ -357,7 +358,8 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 
 <sp-character no=0 name="水上由岐" yomi="Yuki" uid="Yuki">
   <p>
-    女主角，家裏外公是開道場的，因此 Yuki 武力值很高，動手 K 人毫不猶豫。<br>
+    女主角，家裏外公是開道場的，<br>
+    因此 Yuki 武力值很高，動手 K 人毫不猶豫。<br>
     絕對的武力就是絕對的自信，這塑造了她開朗率真，嫉惡如仇的性格。
   </p>
   <p>
@@ -371,12 +373,12 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 <br>
 <sp-character no=1 name="高島石榴" yomi="Zakuro" uid="Zakuro">
   <p>
-    太過於溫柔以至於軟弱的少女，在學校裏是 Yuki 她們的隔壁班同學。<br>
+    太過於溫柔以至於軟弱的少女，是 Yuki 她們的隔壁班的同學。<br>
     如此軟弱的人一旦被捲進學校的黑暗面就毫無還手之力，導致了跳樓的悲慘結局。
   </p>
   <p>
-    這個社會多多少少有點病入膏肓，但是平常就像滿是 bug 卻能跑起來的代碼那樣風平浪靜，<br>
-    高島的死掀翻了風平浪靜的表面，把世界帶向了瘋狂宇宙。
+    這個社會多多少少有點病入膏肓，平常就像滿是 bug 卻能跑起來的代碼一樣風平浪靜，<br>
+    卻被高島的死掀翻了風平浪靜的表面，帶向了瘋狂宇宙。
   </p>
   <p>
     （有時候我看她那慫樣都想錘牠）
@@ -400,10 +402,10 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 <div class="row sp-character wakatsuki left" style="--this-bg: url(../image/subahibi/chars/b2.webp)">
   <div class="col-12 char-overlay row">
     <div class="pc-right col-12 col-md-8 ml-auto">
-      <div class="namearea col-12 pt-2 px-2">
+      <div class="namearea col-12 pt-2 px-2" style="cursor: pointer;">
         <div class="charname font-serif font-weight-bold font-italic">
           <span class="kagami">若槻鏡</span> & <span class="tsukasa">若槻司</span> 
-          <span class="namespin">⇔</span>
+          <span class="namespin">⇦</span>
         </div>
         <div class="yomi font-italic">
           <span class="kagami">Kagami</span> & <span class="tsukasa">Tsukasa</span>
@@ -412,13 +414,14 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
       </div>
       <div class="infoarea col-12 px-2">
         <p>
-          Yuki 家隔壁的雙胞胎女孩，三人既是一起長大的青梅竹馬，也是同班同學。<br>
+          Yuki 家隔壁的雙胞胎女孩，<br>
+          三人既是一起長大的青梅竹馬，也是同班同學。<br>
           因爲 Yuki 很能打，所以兩人要是出了啥事都是讓 Yuki 來擺平，<br>
           因此她們也越來越喜歡 Yuki。
         </p>
         <p>
-          兩人會和 Yuki 一起上學，吃便當，<br>
-          然而 Kagami 是傲嬌雙馬尾，被 Yuki 稍微捉弄一下就會炸，炸了以後溫柔的司就會來安撫。<br>
+          兩人會和 Yuki 一起上學，一起吃便當，<br>
+          並且 Kagami 是傲嬌雙馬尾，被 Yuki 稍微捉弄一下就會炸，炸了以後溫柔的司就會來安撫。<br>
         </p>
         <p>
           我覺得兩人在劇中是相當可愛的角色，只可惜這遊戲並不是萌豚戀愛，我的 Kagami，，，
@@ -434,6 +437,18 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 
 ## 路線圖
 
+<div class="route-map">
+  <x-row>
+      <x-col src="../image/subahibi/route/route1.webp"/>
+      <x-col src="../image/subahibi/route/route2.webp"/>
+      <x-col src="../image/subahibi/route/route3.webp"/>
+      <x-col src="../image/subahibi/route/route4.webp"/>
+      <x-col src="../image/subahibi/route/route5.webp"/>
+      <x-col src="../image/subahibi/route/route6.webp"/>
+  </x-row>
+  <p> JavaScript 錯誤，無法顯示路線圖</p>
+</div>
+
 
 ## 一句話點評
 
@@ -442,34 +457,37 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 **Q：所以這游戲到底是幹嘛的？**
 A：沒玩過的新玩家可以直接把**素晴日々**當成一個摻雜了各種哲學思考和地獄笑話要素的解謎遊戲。
 
-在接觸這個遊戲之前，我僅僅是處於那種久聞本作大名，稍微有點在意的狀態，但是並沒有很想玩，
-主要是因爲畫風看上去有點陳舊（陳舊到不像是一個 2010 年的遊戲），並且官網的故事介紹語焉不詳，
-什麼「每一個故事都是旋律」天知道是什麼鬼意思，，，
+在玩這個遊戲之前，我處於那種久聞本作大名，稍微有點在意的狀態，但是並沒有很想玩，
+主要是因爲畫風看上去有點陳舊（陳舊到不像是一個 2010 年的遊戲），
+並且官網的故事介紹語焉不詳，什麼「每一個故事都是旋律」天知道是什麼鬼意思，，，
 
-而且俺不太喜歡看網上的介紹，因爲很多網站都是直接丟個從官網抄過來的土製翻譯外加一個壓縮包，
-（俺根本就不缺壓縮包好吧）要不就是動漫婆羅門爭當素學家故弄玄虛，要麼就是全部一瞬劇透完畢。
-所以當時我是完全不知道這個遊戲是在幹嘛。
+而且俺不太喜歡看網上的介紹，因爲很多網站都是直接丟個從官網抄過來的土製翻譯外加一個壓縮包，（俺根本就不缺壓縮包好吧）
+要不就是動漫婆羅門爭當素學家故弄玄虛，要麼就是全部一瞬劇透完畢。
+所以當時我是完全不知道這個遊戲是什麼故事。
 
-讓我入坑的契機是，我看到群友在 Steam 上買了 Wonderful Everyday，要知道這玩意是英文的，
+讓我入坑的契機是，我看到群友在 Steam 上買了 ***Wonderful Everyday***，要知道這玩意是英文的，
 牠明顯是可以玩盜版卻還是補了票，俺相信群友的品味，所以就下了十週年紀念版來試玩了一下。
 
-畫風是有點陳舊，但是看多了卻覺得怪可愛的（除了該死的高島石榴），並且 BGM 做得非常動聽應景。
-故事組織上由於插入了太多哲學，總是讓我忍不住想要退坑，但是最終還是通關了，因爲解謎要素還是很頂的。
+畫風是有點陳舊，但是看多了卻覺得怪可愛的（除了該死的高島石榴），BGM 也非常動聽應景。
+故事組織上由於插入了太多哲學，總是讓我忍不住想要退坑，但是最終還是通關了，因爲解謎要素還是很精彩的。
 
-要問我玩完這個遊戲感覺怎麼樣，我感覺絕對的中立，既沒有很後悔也沒有很相見恨晚，畢竟俺被迫啃了一嘴莫名其妙的哲學，但是與此相對的，故事還是挺神的，作爲神器當之無愧。
+要問我玩完這個遊戲感覺怎麼樣，我感覺我絕對地中立，既沒有很後悔也沒有很相見恨晚，畢竟俺被迫啃了一嘴莫名其妙的哲學，但是與此相對的，故事還是挺神的，作爲神器當之無愧。
 
 希望這篇文章能讓你決定要不要去玩這個遊戲。
 
 ## 遊戲 OP
 
-十週年紀念版居然用的還是老 OP，連 LOGO 都不換一個
+動畫來自被牆的 Steam。
+但是十週年紀念版居然用的還是和這個一樣的老 OP，連 LOGO 都不換一個。
 
-<div class="col-lg-10 col-auto">
-  <video  controls width='100%' preload="metadata" poster='../image/subahibi/op.jpg'>
-  <source src="https://s3static-zone0.galgamer.eu.org/video-2d35/subahibi/subaop.mp4" type="video/mp4"/>
-  <p> To view this video please enable JavaScript</p>
-  </video>
-  </div>
+<style>
+  .steamwrap video {
+    aspect-ratio: 4/3;
+  }
+</style>
+<div class="col-lg-10 col-auto steamwrap">
+  {% steam_player 256689290 %}
+</div>
 
 OP 看上去很歡快，但是實際上不是這樣的，，，
 
@@ -485,6 +503,10 @@ OP 看上去很歡快，但是實際上不是這樣的，，，
 ## 遊戲畫面
 
 <p>
+  <img class="img-lazy ar4x3" src="../image/subahibi/scn/c.webp" loading="lazy"/>
+</p>
+
+<p>
   <img class="img-lazy ar4x3" src="../image/subahibi/scn/a.webp" loading="lazy"/>
 </p>
 
@@ -496,20 +518,73 @@ OP 看上去很歡快，但是實際上不是這樣的，，，
   <img class="img-lazy ar4x3" src="../image/subahibi/scn/f.webp" loading="lazy"/>
 </p>
 
+## 游戲版本介紹
+
+素晴日々有多個版本，各版本之間的區別如下所示
+
+|                    |    **原版**           |     **Steam 版**    | **Full Voice HD 版** |  **十週年紀念版**   |
+| :----------------- | :-------------------- |:------------------ |:---------------------|:------------------ |
+| **年份**           |  2010                 |    2017            |   2018               |   2020              |
+| **語言**           |  日語                 |     英語            |    日語              |   日語              |
+| **有漢化？**       |   有                  |     無              |     有               |    無               |
+| **全人物語音？**    |   部分人物語音         |   我不知道          |   有                 |      有             |   
+| **分辨率**         |   800x600             |      1280x960       |    1280x960         |   1280x960          |
+| **推薦？**         |                       |                     |     推薦             |    推薦             |
+
+現在的人一般玩的是 2018 年的 Full Voice HD 版，因爲有漢化補丁，建議普通玩家玩這個版本。
+Steam 版是英文的，而且翻譯有點怪，另外需要打 R-18 補丁才能享受到全內容，所以不太建議玩，當然買來支持遊戲公司也是可以的。
+
+我玩的是十週年紀念版，該版有重製過的更好看的 UI，但是由於沒有漢化補丁外加大量哲學，所以讀起來會比較費勁。
 
 ## 還在猶豫是否下載？
 
+我手上只有十週年紀念版，因此是日文的。當然你聽一下 BGM 也是極好的。
 
-<video controls preload="metadata" width='100%' poster='../image/RIDDLEJOKER/movie.webp'>
-<source src="https://s3static-zone0.galgamer.eu.org/video-2d35/RIDDLEJOKER/movie.mp4" type="video/mp4">
+<video controls preload="metadata" width='100%' poster="../image/subahibi/movie.webp">
+  <source src="https://s3static-zone0.galgamer.eu.org/video-2d35/subahibi/subamovie.mp4" type="video/mp4" />
+  <p> To view this video please enable JavaScript</p>
 </video>
-
-
-## 游戲版本介紹
 
 ## 資源和下載
 
+先放一個 Steam 連結。
 
+{% steam_widget 658620 %}
+
+然後是 **Full Voice HD 版**的遊戲本體的磁力連結（第二個是備用防止失效）
+
+```
+magnet:?xt=urn:btih:4ac46b4266af02b2c4fdb1686638c96f32456ba4
+magnet:?xt=urn:btih:a3949b9d1b5f7fa5592d6487c0b4f514e0bb2beb
+```
+
+以及漢化補丁（還有一個無碼補丁，但是我沒用過，請自己嘗試）
+
+<p>
+  {% telegram_channel 407 %}
+</p>
+
+
+最後是**十週年紀念版**的磁力連結
+
+```
+magnet:?xt=urn:btih:b65a3001ff57d54a660536dbb3dd2d818ed73e96
+```
+
+這個就是終之空那篇文章的種子，內含
+
+* 素晴日々十週年紀念版
+* 終之空 remake
+* 終之空 1999 原版
+
+共三個遊戲的官方光盤鏡像 ISO。
+
+
+## Wonderful Everyday meme
+
+![](../image/subahibi/meme2.webp)
+
+![](../image/subahibi/meme1.webp)
 
 
 <script>
