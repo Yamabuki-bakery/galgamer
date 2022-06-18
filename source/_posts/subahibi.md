@@ -449,6 +449,7 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
   <p> JavaScript 錯誤，無法顯示路線圖</p>
 </div>
 
+簡單來說，本作前三章出題，後三章解謎，如果你已決定要玩，請務必玩完第三章 *Looking-glass Insects*。
 
 ## 一句話點評
 
@@ -582,9 +583,13 @@ magnet:?xt=urn:btih:b65a3001ff57d54a660536dbb3dd2d818ed73e96
 
 ## Wonderful Everyday meme
 
-![](../image/subahibi/meme2.webp)
+![素學家](../image/subahibi/meme2.webp)
 
-![](../image/subahibi/meme1.webp)
+![新年快樂](../image/subahibi/meme1.webp)
+
+![我玩個 Gal 還要看這麼多東西嗎](../image/subahibi/meme3.webp)
+
+![Q 群被封](../image/subahibi/meme4.webp)
 
 
 <script>
