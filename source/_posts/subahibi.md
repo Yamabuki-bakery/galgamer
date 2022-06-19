@@ -4,6 +4,7 @@ date: 2022-6-25 00:30:00
 keywords: "美好的每一天, Wonderful Everyday, kero Q, ケロQ, 十二神器" 
 banner_img: ''
 index_img: '../image/subahibi/cover.jpg'
+banner_img_height: 90
 tags:
   - 解谜
   - 电波
@@ -66,8 +67,9 @@ body {
 }
 :root {
   --board-bg-color: rgba(255,255,255,0.85);
-  --bg-url: url('../image/subahibi/bg-l.webp');
+  --bg-url: url('../image/subahibi/long-bg.webp');
   --name-select-color: #4d8aff;
+  --delayed-opacity: 0;
 }
 [data-user-color-scheme='dark'] {
   --board-bg-color: rgba(0,0,0,0.80);
@@ -82,11 +84,16 @@ body {
     display: none;
 }
 #carousel-cover {
-  aspect-ratio: 22/15;
+  aspect-ratio: 100/71;
+}
+/* show later */
+.page-header, #board, .scroll-down-bar, #toc  {
+  opacity: var(--delayed-opacity);
+  transition: opacity 0.3s;
 }
 </style>
 
-<img src="../image/subahibi/cover.jpg" loading="lazy" class="d-none">
+<img src="../image/subahibi/tg-preview.jpg" loading="lazy" class="d-none">
 
 `作者：Kimika`
 
@@ -95,7 +102,7 @@ body {
 歡迎來到素晴日々安利文章。
 
 {% gallery cover %}
-../image/subahibi/cover.jpg
+../image/subahibi/cover.webp
 ../image/subahibi/master.webp
 ../image/subahibi/master03.webp
 {% endgallery %}
@@ -291,8 +298,8 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
     min-height: 400px;
     background-image: var(--right-bg);
     background-repeat: no-repeat;
-    background-position: bottom 0 left calc(100% * 0.1 - 50px);
-    background-size: 400px;
+    background-position: top 0 left calc(100% * 0.2 - 120px);
+    background-size: 325px;
 
     margin: 0;
     padding: 0;
@@ -315,7 +322,7 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
       transition: opacity 0.3s;
     }
     .pc-right.touch {
-      opacity: 0.1;
+      opacity: 0.05;
     }
     .sp-character {
      /*background: unset;*/
@@ -324,8 +331,8 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
     }
     .sp-character .char-overlay {
       min-height: unset;
-      background-size: contain;
-      background-position: bottom 0px left 0px;
+      background-size: 320px;
+      background-position: top 0px left 0px;
     }
     :root { /* 配色 */
       --chara-card-color: #ffffff87;
@@ -338,7 +345,7 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 
 {% template sp-character name no yomi uid html %}
 <div class={`row sp-character ${uid}`} style={`--this-bg: url(../image/subahibi/chars/b${no}.webp)`}>
-  <div class="col-12 char-overlay row" style={`--right-bg: url(../image/subahibi/chars/${no}.webp)`}>
+  <div class="col-12 char-overlay row" style={`--right-bg: url(../image/subahibi/chars/0${no}.webp)`}>
     <div class="pc-right col-12 col-md-8 ml-auto">
       <div class="namearea col-12 pt-2 px-2">
         <div class="charname font-serif font-weight-bold font-italic">
@@ -387,13 +394,13 @@ Yuki 從夢中驚醒，我不是要買碟嗎！居然真的沉浸在了藍天之
 <br>
 <style>
   .wakatsuki.left .char-overlay{
-    --right-bg: url(../image/subahibi/chars/2.webp);
+    --right-bg: url(../image/subahibi/chars/02.webp);
   }
   .wakatsuki.left .kagami {
     color: var(--name-select-color);
   } 
   .wakatsuki.right .char-overlay{
-    --right-bg: url(../image/subahibi/chars/3.webp);
+    --right-bg: url(../image/subahibi/chars/03.webp);
   }
   .wakatsuki.right .tsukasa {
     color: var(--name-select-color);
@@ -541,7 +548,7 @@ Steam 版是英文的，而且翻譯有點怪，另外需要打 R-18 補丁才�
 
 我手上只有十週年紀念版，因此是日文的。當然你聽一下 BGM 也是極好的。
 
-<video controls preload="metadata" width='100%' poster="../image/subahibi/movie.webp">
+<video controls preload="metadata" width='100%' poster="../image/subahibi/cover.webp">
   <source src="https://s3static-zone0.galgamer.eu.org/video-2d35/subahibi/subamovie.mp4" type="video/mp4" />
   <p> To view this video please enable JavaScript</p>
 </video>
@@ -580,6 +587,8 @@ magnet:?xt=urn:btih:b65a3001ff57d54a660536dbb3dd2d818ed73e96
 
 共三個遊戲的官方光盤鏡像 ISO。
 
+附贈一些我拆包時候拆出來的高清壁紙：{% telegram_channel 716 %}
+
 
 ## Wonderful Everyday meme
 
@@ -615,6 +624,9 @@ magnet:?xt=urn:btih:b65a3001ff57d54a660536dbb3dd2d818ed73e96
         wakatsuki.classList.add('left');
       }
     })
-    //setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 1000)
+    setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 500);
+    setTimeout(function(){
+      document.documentElement.style.setProperty('--delayed-opacity', 1);
+    }, 2000);
   })
 </script>
