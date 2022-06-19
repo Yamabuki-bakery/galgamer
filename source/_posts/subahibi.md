@@ -95,6 +95,9 @@ body {
 
 <img src="../image/subahibi/tg-preview.jpg" loading="lazy" class="d-none">
 
+<img src="../image/subahibi/long-bg.webp" loading="eager" class="d-none">
+
+
 `作者：Kimika`
 
 ## At A Glance
