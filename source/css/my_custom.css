@@ -88,6 +88,8 @@ img.layer-border {
   --navbar-bg-color: #66bab7;
   /* 頂欄文字顏色: 0; */
   --navbar-text-color: #fff;
+  /* 網站頭圖默認值 */
+  --home-bg-url: url("/image/Atri/pv.webp");
 }
 
 /* 夜間配色 */
@@ -124,3 +126,8 @@ img.layer-border {
 .markdown-body pre {
   margin-bottom: unset;
 } 
+
+#banner {
+  background-image: var(--home-bg-url)!important;
+  transition: background-image 0.3s ease-in-out;
+}
