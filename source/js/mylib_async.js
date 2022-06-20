@@ -9,6 +9,7 @@ function main(){
         // DOM is loaded and ready for manipulation here
         if (checkPathRoot()){
             friendLink();
+            //createHomeGallery();
         }else{
             chinaCDN();
             let maps = document.querySelectorAll('.route-map');
@@ -29,6 +30,28 @@ function main(){
         pangu.spacingElementByTagName('table');
         pangu.spacingElementByTagName('li');
     });
+}
+
+//首頁頭圖輪轉
+function createHomeGallery(){
+    return;
+    // 獲得最新的五篇文章
+    let articleCards = document.querySelectorAll('.index-card');
+    let links = [];
+    let maxLoop = 5;
+    let nth = 0;
+    for(nth = 0; nth < maxLoop; nth++){
+        let link = articleCards[nth].querySelector('img').getAttribute('src');
+        links.push(link);
+    }
+    
+    nth = 0;
+    let loop = setInterval(function(){
+        console.log(links[nth])
+        document.documentElement.style.setProperty('--home-bg-url', `url(${links[nth]})`);
+        nth ++;
+        if (nth == maxLoop) nth = 0;
+    }, 2000)
 }
 
 function standwith(){
@@ -464,10 +487,12 @@ function createShareBtn() {
     btn.setAttribute('class', 'btn btn-info btn-sm mr-auto');
     btn.setAttribute('role', 'button');
     btn.setAttribute('id', 'shareBtn');
+    btn.setAttribute('style', 'border-radius: 15px');
     
     let logo = document.createElement('img');
     logo.setAttribute('width', '20px');
     logo.setAttribute('src', '/image/TGLogo.svg');
+    logo.setAttribute('style', 'padding-bottom: 3px');
     
     let mText = document.createElement('span');
     mText.setAttribute('style', 'margin: 4px;');
