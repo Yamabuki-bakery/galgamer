@@ -9,7 +9,7 @@ function main(){
         // DOM is loaded and ready for manipulation here
         if (checkPathRoot()){
             friendLink();
-            //createHomeGallery();
+            createHomeGallery();
         }else{
             chinaCDN();
             let maps = document.querySelectorAll('.route-map');
@@ -34,7 +34,7 @@ function main(){
 
 //首頁頭圖輪轉
 function createHomeGallery(){
-    return;
+    //return;
     // 獲得最新的五篇文章
     let articleCards = document.querySelectorAll('.index-card');
     let links = [];
@@ -47,11 +47,11 @@ function createHomeGallery(){
     
     nth = 0;
     let loop = setInterval(function(){
-        console.log(links[nth])
+        //console.log(links[nth])
         document.documentElement.style.setProperty('--home-bg-url', `url(${links[nth]})`);
         nth ++;
         if (nth == maxLoop) nth = 0;
-    }, 2000)
+    }, 4000)
 }
 
 function standwith(){
