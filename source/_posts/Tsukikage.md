@@ -152,11 +152,7 @@ excerpt: '被表妹如月零邀請，回到故鄉如月老宅參加「儀式」�
 
 <details><summary>點此展開 OP 動畫</summary>
 
-<video width="100%" controls="controls"  preload="metadata" muted> 
-<source src="https://cdn.cloudflare.steamstatic.com/steam/apps/256756829/movie480.webm" src-cn="https://media.st.dl.pinyuncloud.com/steam/apps/256756829/movie480.webm" type="video/webm"/>
-<source src="https://cdn.cloudflare.steamstatic.com/steam/apps/256756829/movie480.mp4" src-cn="https://media.st.dl.pinyuncloud.com/steam/apps/256756829/movie480.mp4" type="video/mp4"/>
-<p>無法使用  JavaScript。</p>  
-</video>
+{% steam_player 256756829 %}
 
 動畫來自 Steam。
 </details>
