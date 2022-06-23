@@ -7,13 +7,13 @@ categories:
   - [全年龄]
   - [游戏公司, 柚子社]
 index_img: >-
-  https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_7a9916ab678c21a97528e88b2c15ac9b569a7cd3.600x338.jpg?t=1630062956
+  https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_7a9916ab678c21a97528e88b2c15ac9b569a7cd3.600x338.jpg
 abbrlink: 23509
 date: 2021-11-22 13:11:43
 excerpt: 'Brain-machine Interface，这项技术让人类的记忆得以数据化，同时，也创造出了“他”，他的人格由许许多多的记忆拼凑而成。'
 ---
 
-![PARQUET](https://media.st.dl.pinyuncloud.com/steam/apps/1662840/header.jpg)
+![PARQUET](https://cdn.akamai.steamstatic.com/steam/apps/1662840/header.jpg)
 
 Brain-machine Interface，简称BMI，是一种连接大脑和机器的技术。
 这项技术让人类的记忆得以数据化，为世界发展做出了显著贡献。
@@ -32,7 +32,7 @@ Brain-machine Interface，简称BMI，是一种连接大脑和机器的技术。
 
 怀揣着各自的秘密，伴随着种种变数，“他”和“她们”的同居生活正式拉开序幕——
 
-![PARQUET](https://media.st.dl.pinyuncloud.com/steam/apps/1662840/extras/SC.jpg)
+![PARQUET](https://cdn.akamai.steamstatic.com/steam/apps/1662840/extras/SC.jpg)
 
 ## 游戏 OP 欣赏
 
@@ -44,12 +44,12 @@ Brain-machine Interface，简称BMI，是一种连接大脑和机器的技术。
 ## 游戏 CG
 
 {% gallery natu %}
-https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_c348dff5917608bad2ff74743c73328668815a4f.jpg
-https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_7a9916ab678c21a97528e88b2c15ac9b569a7cd3.jpg
-https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_40655d8de77a7a5325fcf20503f4a3cba275e910.jpg
-https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_0c2417cd24464bcf4cc4678c4f144461daa36dc0.jpg
-https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_6dfdacbbc79a4288141168a9e51615cacb63e690.jpg
-https://media.st.dl.pinyuncloud.com/steam/apps/1662840/ss_056bc140c91d13ea536637be77567d76779f21b9.jpg
+https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_c348dff5917608bad2ff74743c73328668815a4f.jpg
+https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_7a9916ab678c21a97528e88b2c15ac9b569a7cd3.jpg
+https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_40655d8de77a7a5325fcf20503f4a3cba275e910.jpg
+https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_0c2417cd24464bcf4cc4678c4f144461daa36dc0.jpg
+https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_6dfdacbbc79a4288141168a9e51615cacb63e690.jpg
+https://cdn.akamai.steamstatic.com/steam/apps/1662840/ss_056bc140c91d13ea536637be77567d76779f21b9.jpg
 {% endgallery %}
 <br>
 {% gallery suzu %}
