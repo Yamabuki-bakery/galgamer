@@ -163,7 +163,7 @@ excerpt: '被表妹如月零邀請，回到故鄉如月老宅參加「儀式」�
 
 *請注意音量。*
 
-<audio controls="" style="width: 100%" preload="none" src="https://s3static-zone0.galgamer.eu.org/audio-2d35/%E3%82%A4%E3%83%8E%E3%83%81%E3%81%AE%E7%81%AF%E3%81%97%E6%96%B9.mp3" type="audio/mp3"></audio>
+<audio controls="" style="width: 100%" preload="metadata" src="https://s3static-zone0.galgamer.eu.org/audio-2d35/%E3%82%A4%E3%83%8E%E3%83%81%E3%81%AE%E7%81%AF%E3%81%97%E6%96%B9.mp3" type="audio/mp3"></audio>
 
 歌詞唱出了遊戲中某個人物的內心，旋律也很有意境，這首歌是俺入坑遊戲的契機。
 
