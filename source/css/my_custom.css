@@ -128,6 +128,5 @@ img.layer-border {
 } 
 
 #banner {
-  background-image: var(--home-bg-url)!important;
   transition: background-image 0.3s ease-in-out;
 }

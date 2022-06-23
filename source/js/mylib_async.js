@@ -35,6 +35,9 @@ function main(){
 //首頁頭圖輪轉
 function createHomeGallery(){
     //return;
+    //屌查 CSS
+    let banner = document.getElementById("banner");
+    banner.style.setProperty("background-image", "var(--home-bg-url)");
     // 獲得最新的五篇文章
     let articleCards = document.querySelectorAll('.index-card');
     let links = [];
