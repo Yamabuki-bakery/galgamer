@@ -3,7 +3,7 @@ title: '美好的每一天 ~不連續的存在~：無法理解的世界'
 date: 2022-6-25 00:30:00
 keywords: "美好的每一天, Wonderful Everyday, kero Q, ケロQ, 十二神器" 
 banner_img: ''
-index_img: '../image/subahibi/cover.jpg'
+index_img: '../image/subahibi/cover.webp'
 banner_img_height: 90
 tags:
   - 解谜
