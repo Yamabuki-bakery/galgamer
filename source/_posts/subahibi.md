@@ -25,7 +25,7 @@ tags:
 categories:
   - [R-18]
   - [十二神器]
-  - [游戏公司, ケロQ]
+  - [游戏公司, KeroQ]
 abbrlink: 20016
 author: 'Kimika'
 excerpt: '這是武道少女 Yuki 解開發生在學校、世界和自己身上的謎團，迎接美好的每一天的故事。'
