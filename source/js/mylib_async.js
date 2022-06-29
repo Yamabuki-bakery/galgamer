@@ -22,6 +22,7 @@ function main(){
         //createNewBadge();//before 2022
         showCDN();
         videoWatchDog();
+        promotion();
         // 頁面排版: 中英之間增加空格
         pangu.spacingElementByTagName('p');
         pangu.spacingElementByTagName('h1');
@@ -822,6 +823,23 @@ function videoWatchDog(){
         }
         video.addEventListener('error', handleErr);
     })
+}
+
+function promotion(){
+    let text = `
+▄▀  ██   █      ▄▀  ██   █▀▄▀█ ▄███▄   █▄▄▄▄ 
+▄▀    █ █  █    ▄▀    █ █  █ █ █ █▀   ▀  █  ▄▀ 
+█ ▀▄  █▄▄█ █    █ ▀▄  █▄▄█ █ ▄ █ ██▄▄    █▀▀▌  
+█   █ █  █ ███▄ █   █ █  █ █   █ █▄   ▄▀ █  █  
+ ███     █     ▀ ███     █    █  ▀███▀     █   
+        █               █    ▀            ▀    
+       ▀               ▀                       
+   =======================================
+    @Galgamer - Galgame group & community
+   =======================================
+    歡迎投稿 https://t.me/Galgamer
+    `
+    console.log(text)
 }
 
 main();
