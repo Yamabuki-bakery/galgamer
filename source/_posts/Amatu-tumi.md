@@ -1,6 +1,6 @@
 ---
-title: '天津罪：超能力農村人進城'
-date: 2022-7-23 00:30:00
+title: '天津罪：超能力鄉毋寧進城'
+date: 2022-7-17 00:30:00
 keywords: "アマツツミ, 天津罪, Purple, CMVS" 
 banner_img: ''
 index_img: '../image/Amatu-tumi/cover.webp'
