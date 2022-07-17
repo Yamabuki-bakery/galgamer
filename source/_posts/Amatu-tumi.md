@@ -3,10 +3,10 @@ title: '天津罪：超能力農村人進城'
 date: 2022-7-23 00:30:00
 keywords: "アマツツミ, 天津罪, Purple, CMVS" 
 banner_img: ''
-index_img: '../image/Amatu-tumi/index.webp'
+index_img: '../image/Amatu-tumi/cover.webp'
 tags:
   - 超能力
-  - 妹妹
+  - JK
   - 青梅竹马
   - 巫女
 categories:
@@ -49,12 +49,12 @@ body {
   border-radius: 5px;
 }
 :root {
-  --board-bg-color: rgba(255,255,255,0.7);
-  --bg-url: url('../image/Amatu-tumi/bg-l.webp')
+  --board-bg-color: rgba(255,255,255,0.85);
+  --bg-url: url('../image/Amatu-tumi/bg.webp')
 }
 [data-user-color-scheme='dark'] {
   --board-bg-color: rgba(0,0,0,0.85);
-  --bg-url: url('../image/Amatu-tumi/bg-d.webp')
+  /* --bg-url: url('../image/Amatu-tumi/bg-d.webp') */
 }
 ::selection {
     /*background-color: #f00;*/
@@ -74,7 +74,7 @@ body {
 能用神力給人洗腦的男主，誠，懷着想和別人平等交往的願望，第一次走出了隱居的山村。
 
 <p id="coverimage-warp">
-  <img src="../image/Amatu-tumi/index.webp" loading="lazy" class="img-lazy ar16x9" alt="Cover">
+  <img src="../image/Amatu-tumi/cover.webp" loading="lazy" class="img-lazy ar16x9" alt="Cover">
 </p>
 
 
@@ -138,11 +138,11 @@ body {
   }
   .sp-character .char-overlay {
     background-color: var(--chara-card-color);
-    min-height: 450px;
+    min-height: 400px;
     background-image: var(--right-bg);
     background-repeat: no-repeat;
-    background-position: top 0px right calc(100% * 0.3 - 130px);
-    background-size: 300px;
+    background-position: bottom -80px right calc(100% * 0.3 - 130px);
+    background-size: auto 550px;
 
     margin: 0;
     padding: 0;
@@ -174,8 +174,8 @@ body {
     }
     .sp-character .char-overlay {
       min-height: unset;
-      /* background-size: contain;
-      background-position: bottom 0px right 0px; */
+      /* background-size: contain;*/
+      background-position: bottom -90px right 0px; 
     }
     :root { /* 配色 */
       --chara-card-color: #ffffff87;
@@ -252,7 +252,7 @@ body {
   </p>
 </sp-character>
 <br>
-<sp-character no=2 name="惑塔輪" yomi="ほたる" uid="hotaru">
+<sp-character no=3 name="惑塔輪" yomi="ほたる" uid="hotaru">
   <p>
     開朗活潑的嬌小少女，是可可龍的同班同學兼閨蜜。
   </p>
@@ -265,43 +265,86 @@ body {
     惑塔輪屬於群友所說的「非臉譜化角色」，擁有她自己獨特的線路和故事。
   </p>
 </sp-character>
-<br>
 
 ## 遊戲 OP
 
-動畫來自被牆的 Steam。
+動畫來自被牆的 Youtube。
 
-{% steam_player 256806223 %}
+<video controls preload="metadata" width='100%' poster='../image/Amatu-tumi/op.webp'>
+<source src="https://s3static-zone0.galgamer.eu.org/video-2d35/Amatu-tumi/op.mp4" type="video/mp4">
+</video>
 
-Galgame 金曲: <a href="/music/?id=26" target="_blank">🔗️astral ability</a>
+本作的音樂非常動聽應景，特此添加兩首 Galgame 金曲：
 
+<a href="/music/?id=27" target="_blank">🔗️こころに響く恋ほたる</a>
 
+<a href="/music/?id=28" target="_blank">🔗️コトダマ紬ぐ未来</a>
 
 ## 遊戲 CG
 
 <p>
-  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/0.webp" loading="lazy"/>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/00.webp" loading="lazy"/>
 </p>
 
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/01.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/02.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/03.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/04.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/05.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/06.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/07.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/08.webp" loading="lazy"/>
+</p>
+
+<p>
+  <img class="img-lazy ar16x9" src="../image/Amatu-tumi/cg/09.webp" loading="lazy"/>
+</p>
 
 ## H 場景
 
 {% gallery hcg %}
-../image/Amatu-tumi/cg/a.webp
-../image/Amatu-tumi/cg/b.webp
-../image/Amatu-tumi/cg/c.webp
-../image/Amatu-tumi/cg/d.webp
-../image/Amatu-tumi/cg/e.webp
+../image/Amatu-tumi/hcg/0.webp
+../image/Amatu-tumi/hcg/1.webp
+../image/Amatu-tumi/hcg/2.webp
+../image/Amatu-tumi/hcg/3.webp
+../image/Amatu-tumi/hcg/4.webp
 {% endgallery %}
 
 ## 遊戲畫面
 
 {% gallery screen %}
-../image/Amatu-tumi/scn/0.webp
-../image/Amatu-tumi/scn/1.webp
-../image/Amatu-tumi/scn/2.webp
-../image/Amatu-tumi/scn/3.webp
-../image/Amatu-tumi/scn/4.webp
+../image/Amatu-tumi/scn/00.webp
+../image/Amatu-tumi/scn/01.webp
+../image/Amatu-tumi/scn/02.webp
+../image/Amatu-tumi/scn/03.webp
+../image/Amatu-tumi/scn/04.webp
+../image/Amatu-tumi/scn/05.webp
+../image/Amatu-tumi/scn/06.webp
+../image/Amatu-tumi/scn/07.webp
+../image/Amatu-tumi/scn/08.webp
+../image/Amatu-tumi/scn/09.webp
 {% endgallery %}
 
 ## 一句話點評
@@ -317,19 +360,18 @@ A：和那個挨動態清零的天津沒有任何關係，這裏的天津罪指�
 
 然後故事上很有深意，一個不諳世事的超能力男主，來到人間，他會被帶成一個好人還是惡人呢？在遇到難題的時候他是怎麼抉擇的呢？該過程的心理描寫非常精彩，真實刻畫了男主不諳世事甚至純白無瑕的特點。
 
-最後點名表揚 Purple 開發的 CMVS 引擎，本作雖然原生解析度是 720P，但是 CMVS 引擎會自動以本機分辨率進行渲染，使得遊戲在任何尺寸的屏幕上都能夠渲染清晰無比的文字和盡力減少立繪鋸齒。這一點屌打 CRYSTALiA 那不知道是什麼的糊的一比的狗屁引擎。而且 CMVS 在筆電上非常省電 + 省 CPU，這一點屌打 CIRCUS 那個能把全核直接佔滿的狗屁引擎。
+最後點名表揚 Purple 開發的 CMVS 引擎，本作雖然原生解析度是 720P，但是 CMVS 引擎會自動以本機分辨率進行渲染，使得遊戲在任何尺寸的屏幕上都能夠渲染清晰無比的文字和盡力減少立繪鋸齒，這一點屌打 CRYSTALiA 那不知道是什麼的糊的一比的狗屁引擎；而且 CMVS 在筆電上非常省電 + 省 CPU，這一點屌打 CIRCUS 那個能把全核直接佔滿的狗屁引擎。
 
 請 Purple 再接再勵！對 CMVS 技術細節感興趣的群友可以去看看祂們的開發日記：
 https://www.purplesoftware.jp/cgi/diary/nicky.cgi?page=119
 
 ## 還在猶豫是否下載？
 
-有一個 11 分鐘的試玩錄像。
-序章太長了我就錄了一個日後小故事。
+我手上沒有漢化版並且剛開始劇情就和上面說明的那樣，所以我有點不想放試玩錄像。
 
-<video controls preload="metadata" width='100%' poster='../image/Amatu-tumi/movie.webp'>
-<source src="https://s3static-zone0.galgamer.eu.org/video-2d35/Amatu-tumi/movie.mp4" type="video/mp4">
-</video>
+不過群友有一個漢化的體驗版，感興趣的可以去玩一下。
+
+{% telegram_channel 27 phobolo %}
 
 
 ## 生肉閱讀難度
@@ -343,11 +385,11 @@ https://www.purplesoftware.jp/cgi/diary/nicky.cgi?page=119
 
 ## 資源和下載
 
+```
+magnet:?xt=urn:btih:286226e279576da7555b57a83f3e4aa9f5ac0048
+```
 
-
-## 寫在最後
-
-
+文件名：アマツツミ + 予約特典 +同梱特典
 
 <script>
   //document.documentElement.setAttribute('data-user-color-scheme', 'dark');
@@ -361,6 +403,6 @@ https://www.purplesoftware.jp/cgi/diary/nicky.cgi?page=119
         el.classList.remove('touch');
       })
     });
-    setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 1000)
+    //setTimeout(() => document.documentElement.setAttribute('data-user-color-scheme', 'light'), 1000)
   })
 </script>
