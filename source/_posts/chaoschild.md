@@ -347,7 +347,7 @@ excerpt: '日本高中生破解澀谷獵奇懸案'
 
 steam暫無中文，可以用盜版替換大法（可以跳steam成就）
 
-[🔗️盜版](https://t.me/RhineLibrary/5388)（密碼：莱茵）
+盜版： {% telegram_channel 5388 RhineLibrary %}
 
 <style>
 body {
